@@ -1,3 +1,13 @@
+---
+layout: post
+title: a post with math
+date: 2023-12-12 11:12:00-0400
+description: an example of a blog post with some math
+tags: formatting math
+categories: sample-posts
+related_posts: false
+---
+
 Some time ago I took over a Power Platform project right after first deploys to production. The application is a collection of over 30 Power Apps and more than 600 other components. With my DevOps background I was really happy to see the Azure DevOps setup the team had put in place to automate the deploy of the hundreds of Power Platform components as much a as possible.
 
 If you want to see how that can be done check out this video by Feline Parein. [Feline Parein - How to deploy Power Platform solution company-wide: Azure DevOps can help with CI/CD - YouTube](https://www.youtube.com/watch?v=pv8CyKrL5ds)

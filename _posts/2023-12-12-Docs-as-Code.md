@@ -1,10 +1,10 @@
 ---
 layout: post
-title: a post with math
+title: BOOSTING EFFICIENCY DOCS-AS-CODE STRATEGIES WITH POWER PLATFORM AND AZURE DEVOPS
 date: 2023-12-12 11:12:00-0400
-description: an example of a blog post with some math
-tags: formatting math
-categories: sample-posts
+description: 
+tags: DevOps
+categories: DevOps
 related_posts: false
 ---
 

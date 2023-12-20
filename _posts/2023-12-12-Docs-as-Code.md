@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BOOSTING EFFICIENCY DOCS-AS-CODE STRATEGIES WITH POWER PLATFORM AND AZURE DEVOPS
+title: Boosting Efficiency Docs-as-Code Strategies with Power Platform and Azure DevOps
 date: 2023-12-12 11:12:00-0400
 description: 
 tags: DevOps

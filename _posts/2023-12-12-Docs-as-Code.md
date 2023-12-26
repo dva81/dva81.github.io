@@ -38,8 +38,8 @@ The good thing was the team already tried to put documentation in repositories. 
 
 - .md as format. Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. 
 
-![publish it as code]('/assets/img/Docs-as-Code/Docs-as-Code (2).png')
-![publish it as code]('/assets/img/Docs-as-Code/Docs-as-Code (3).png')
+![publish it as code]('/Docs-as-Code/Docs-as-Code (2).png')
+![publish it as code]('/Docs-as-Code/Docs-as-Code (3).png')
 
 - In the pipeline step the output is generated in pdf format using a standard task in Azure DevOps. and attached to the artifact for deployment. 
 

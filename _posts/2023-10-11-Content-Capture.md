@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Content Capture the human factor: exploring user adoption
+title: Content Capture the human factor - exploring user adoption
 date: 2023-10-11
 description: Advances in data capture and document recognition technologies are leading more and more organizations to integrate them into their content management solutions. Embedded with advanced artificial intelligence (AI) capabilities, these systems scan all incoming communications, import documents, recognize and classify data, images or videos. But it doesn't end there. After the content type is identified, classified and data captured in a digital format, this information is routed within the business environment.
 tags: Capture

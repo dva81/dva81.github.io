@@ -24,23 +24,23 @@ Step 1: Copy - Paste - Send
 
 I copy/pasted the message I got via chat and clicked on send.
 
-![ ]('assets\img\The Art of Automation\The Art of Automation (1).png"')
+![The Art of Automation]('assets\img\The Art of Automation\The Art of Automation (1).png')
 
   
 The first suggestion it gave was not really what I was looking for. It could work but, in my opinion, it did not cover the complete scenario.
 
-![ ]('assets\img\The Art of Automation\The Art of Automation (2).png"')
+![The Art of Automation]('assets\img\The Art of Automation\The Art of Automation (2).png')
 
-![ ]('assets\img\The Art of Automation\The Art of Automation (3).png"')
+![The Art of Automation]('assets\img\The Art of Automation\The Art of Automation (3).png')
 Step 2: Do it again
 
 So, I tried again. Iteration two.
 
 This time I prompted: monitor my mailbox. if I get an email and it is Wednesday reply with an email that says I am not available on Wednesdays. A bit simpler, more straightforward. Notice I put in an if statement to guide the engine."
 
-![ ]('assets\img\The Art of Automation\The Art of Automation (4).png"')
+![The Art of Automation]('assets\img\The Art of Automation\The Art of Automation (4).png')
 
-![ ]('assets\img\The Art of Automation\The Art of Automation (5).png"')
+![The Art of Automation]('assets\img\The Art of Automation\The Art of Automation (5).png')
 
 This time it made a suggestion that could be a good start. I put a proper reply message and started the flow test. This whole process took about 10 minutes.
 

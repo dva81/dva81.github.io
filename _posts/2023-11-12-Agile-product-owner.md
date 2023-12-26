@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Agile product owner: key responsibilities in scrum development teams
-date: 2023-12-12 
+date: 2023-11-12 
 description: Working at ACOLAD as an ECM Team Coach, most of my time is spent leading product teams in implementing common-of-the-shelf software (COTS) applications in enterprise environments. This includes introducing agile software development methodologies and connecting business users and developers in one t-shaped, multifunctional team.
 tags: Agile, Leadership
 categories: Agile, Leadership
-related_posts: false
 ---
 
 Working at ACOLAD as an ECM Team Coach, most of my time is spent leading product teams in implementing common-of-the-shelf software (COTS) applications in enterprise environments. This includes introducing agile software development methodologies and connecting business users and developers in one t-shaped, multifunctional team.
@@ -22,11 +21,9 @@ So how can an agile product owner gain trust from his team and value for the cli
 
 1. You are a leader!
 
-
 You lead the product development... getting the most value for the client. Agile dictates a self-organizing team and the product owner is second servant-leader in the team, next to the Agile lead or Scrum master. Always deliver added business value even if the development team wants to clean up technical debt. Get grip on your resources and lead them to a better product, but also be aware that code/infra is a living organism.
 
 2. Product Purpose - Mission
-
 
 Know your product/mission in and out. Breathe it, live it. Envision it.
 
@@ -36,17 +33,14 @@ Take ownership of the project and demos, don t rely on the dev team to show what
 
 3. Know your backlog
 
-
 The team can only start working if they clearly know what to do. Backlog management must be done properly. The PO must challenge the development team to improve the backlog, connect with the target audience (users) and log progress in an issue tracker. 
 
 What is important? Prioritize, not everything is priority 1.
 
 Incident control is not the same as the introduction of a new feature or US and vice versa, so they cannot be simply pulled in a sprint.
-
-        Get your stories ready by making sure User Acceptance Tests (UAT) and operations acceptance criteria are clear.
+Get your stories ready by making sure User Acceptance Tests (UAT) and operations acceptance criteria are clear.
 
 4. Delivering quality
-
 
 Inspect and adapt! This is something we hear often in Agile. The PO is responsible for the value that will be delivered by the whole team, but value also means quality. There is no value if the users don t want to accept it and the product is not up to standards.
 

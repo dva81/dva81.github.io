@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DevOps and why it should matter when selecting your technology partner
-date: 2023-05-10
+date: 2023-08-11
 description: You might have heard the term DevOps and wondered if it is a new process, a new technology, a job title or something entirely different. Or maybe you re more tech-savvy and automatically thought about continuous delivery, agile and infrastructure as code. But it is much more than that.
 tags: DevOps
 categories: DevOps
@@ -18,7 +18,7 @@ Definitions vary, but as the name suggests, DevOps integrates the two traditiona
 
 The books  The DevOps Handbook and The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win complete the definition in three ways :
 
-![]('assets\img\DevOps and why\DevOps and why.gif')
+![DevOps]('assets\img\DevOps and why\DevOps and why.jpg')
 
 1. Emphasizes the performance of the entire system, i.e. to increase frequency of deployments and improves the time to implement changes or new solutions.
 
@@ -40,7 +40,7 @@ DevOps is all about improving the flow from development to customer and back, t
 
 By writing software in small chunks that are integrated, tested, monitored and deployed usually in hours versus weeks or months in traditional methodologies  we are able to implement changes or offer new solutions faster and more often. In short, we improved our ability to solve customers Enterprise Content Management challenges and reciprocated to their needs efficiently.
 
-HIGH QUALITY AND MORE STABILITY 
+# HIGH QUALITY AND MORE STABILITY 
 
 More speed didn t compromise on quality. While continuous delivery by itself is a high quality service indicator, we were also able to reduce unplanned work and rework, as well as the time spent dealing with security issues. The cross-disciplinary approach of DevOps maximizes reliability in all areas. Our higher response rate to any requests also adds up to increased stability, which is key for any business platform.
 

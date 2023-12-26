@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Continuous delivery with EMC Captiva document capture software
-date: 2023-05-10
+date: 2023-09-11
 description: Setting up a continuous delivery environment can be a daunting task, especially when working with third party software. In this blog post, Dennis Van Aelst and Stef Kusters provide some insight in using EMC Captiva in a continuous delivery environment.
 tags: Capture, DevOps
 categories: Capture, DevOps
-related_posts: false
 ---
 
 Setting up a continuous delivery environment can be a daunting task, especially when working with third party software. In this blog post, Dennis Van Aelst and Stef Kusters provide some insight in using EMC Captiva in a continuous delivery environment.
@@ -21,7 +20,6 @@ A continuous delivery environment is set up to optimize development processes: i
 In practice, that means that developers work on the software on their own workstations, while the continuous delivery system takes care of versioning, testing and deploying their work. It reduces the amount of manual tasks, which improves the quality of development and deployment, while reducing unnecessary stress during deployment.
 
 Setting up this environment requires a fundamental change in the process, technologies used and mindset of all parties involved. In this post, we ll focus on the process and technologies, as hanging the mindset of people is a different (and much more subjective) challenge, which probably deserves its own blog post.
-
 
 # How we set up a continuous delivery process
 
@@ -39,7 +37,6 @@ These are the main steps in this set-up:
 
 # Step 1: development in Captiva Designer and commitment to GIT
 
-
 The first step in the process, as shown in the image above, is the developers working on their workstations. They use the Captiva Designer to make changes to the development environment as they please. When they are done, the developers commit their code to the GIT repository. GIT is primarily used for version control in this set-up.
 
 If you d like a more detailed description of this step, please read our [blog post on the EMC Community blog](http://community.emc.com/people/dennisvanaelst/blog/2016/06/21/how-to-use-captiva-in-a-continuous-delivery-environment).
@@ -54,13 +51,11 @@ A more in-depth description of this step can be found in this [blog post](http:
 
 # Step 3: Testing, acceptance and push to production with Nolio
 
-
- Nolio is a configurable release management tool that can be used to deploy to multiple environments and create the automatic deployment scripts, replacing the manual cookbook.
+Nolio is a configurable release management tool that can be used to deploy to multiple environments and create the automatic deployment scripts, replacing the manual cookbook.
 
 The setup we made only uses the deployment part for automating various steps in the deploy process. With Powershell or something similar you can achieve the same thing. We have a template in Nolio for deploying these configurations behind this template are multiple Nolio processes with all the steps needed to deploy processes or profiles or configuration items.
 
 # Step 4: Using UFT for automated testing
-
 
 At the end of the deployment process, we kick off an automated test using Unified Functional Testing (HP). This test creates a batch by importing images, then indexes them and verified the data in Captiva. We added a web service which automatically looks up values in the batch and compares them to the expected values. That way we can easily create 100 or more test cases.
 

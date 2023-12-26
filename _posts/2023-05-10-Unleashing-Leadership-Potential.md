@@ -25,6 +25,8 @@ One of the fundamental aspects covered, is understanding different leadership st
 
 To be an effective leader, it is essential to understand the needs and motivations of individuals within a team. The Leadership Accelerator addresses the four critical elements: Autonomy, Belonging, Competence, and Purpose.
 
+![Unleashing Leadership Potential]('assets\img\Unleashing Leadership Potential\Unleashing Leadership Potential (2).png')
+
 By giving employees a sense of autonomy, allowing them control and independence in their work, it empowers them to take responsibility and make impactful contributions. Building a sense of belonging within the team creates a supportive environment where individuals feel valued and connected. Developing competence through continuous learning and growth opportunities ensures that employees can reach their full potential. Lastly, emphasizing purpose helps employees understand how their work contributes to the larger mission of the organization.
 
 # 1-on-1's: Building Trust and Development
@@ -39,6 +41,7 @@ Setting clear objectives is crucial for individual and team success. The Leaders
 
 Effective leadership extends beyond individual performance to team dynamics and project management. Together we discuss concepts taken from [Patrick Lencioni 5 Dysfunctions of a Team](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team) and though workshops participants learn how to identify the pitfalls and strengths of the team.
 
+![Unleashing Leadership Potential]('assets\img\Unleashing Leadership Potential\Unleashing Leadership Potential (1).png')
 
 The program also introduces concepts such as Agile methodologies, Lean Six Sigma and Prince2.
 

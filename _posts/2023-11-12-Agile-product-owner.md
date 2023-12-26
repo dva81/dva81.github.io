@@ -3,7 +3,6 @@ layout: post
 title: Agile product owner - key responsibilities in scrum development teams
 date: 2023-11-12 
 description: Working at ACOLAD as an ECM Team Coach, most of my time is spent leading product teams in implementing common-of-the-shelf software (COTS) applications in enterprise environments. This includes introducing agile software development methodologies and connecting business users and developers in one t-shaped, multifunctional team.
-tags: Agile, Leadership
 categories: Agile, Leadership
 ---
 

@@ -2,10 +2,9 @@
 layout: post
 title: Unlocking the Potential of the Microsoft Power Platform for Life Sciences
 date: 2023-08-11 11:12:00-0400
-description: 
+description: For over a decade, we have been supporting a Life Science customer with a legacy .NET application. Keeping aging infrastructure running is costly and increasingly unsustainable, with 60 to 80 per cent of corporate IT budgets going towards maintaining legacy systems. Our customer approached us to link the application to their new Quality Management System.
 tags: Power Platform
 categories: Power Platform
-related_posts: false
 ---
 
 For over a decade, we have been supporting a Life Science customer with a legacy .NET application. Keeping aging infrastructure running is costly and increasingly unsustainable, with 60 to 80 per cent of corporate IT budgets going towards maintaining legacy systems. Our customer approached us to link the application to their new Quality Management System.

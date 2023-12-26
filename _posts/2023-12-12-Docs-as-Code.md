@@ -2,7 +2,7 @@
 layout: post
 title: Boosting Efficiency Docs-as-Code Strategies with Power Platform and Azure DevOps
 date: 2023-12-12
-description: 
+description: Some time ago I took over a Power Platform project right after first deploys to production. The application is a collection of over 30 Power Apps and more than 600 other components. With my DevOps background I was really happy to see the Azure DevOps setup the team had put in place to automate the deploy of the hundreds of Power Platform components as much a as possible.
 tags: DevOps
 categories: DevOps
 ---

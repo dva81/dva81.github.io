@@ -3,7 +3,6 @@ layout: post
 title: Unearth Hidden Windows Gems - Mastering Microsoft Steps Recorder for Troubleshooting and Analysis
 date: 2023-06-10
 description: This tool has been in Windows for some time, but a lot of people still don't know about it. That has to change. Steps Recorder (called Problems Steps Recorder in Windows 7) is a program that helps you troubleshoot a problem on your device by recording the exact steps you took when the problem occurred.
-tags: Tools
 categories: Tools
 ---
 
@@ -31,7 +30,7 @@ Open the application
 
 you can find the application in the start menu of your Windows. Just type in Step Recorder
 
-![Unearth Hidden Windows Gems]('assets\img\Unearth Hidden Windows Gems\Unearth Hidden Windows Gems (1).png')
+![Unearth Hidden Windows Gems]('\assets\img\Unearth Hidden Windows Gems\Unearth Hidden Windows Gems (1).png')
 
 Adjust the number of captures.
 

@@ -3,7 +3,6 @@ layout: post
 title: Continuous delivery with EMC Captiva document capture software
 date: 2023-09-11
 description: Setting up a continuous delivery environment can be a daunting task, especially when working with third party software. In this blog post, Dennis Van Aelst and Stef Kusters provide some insight in using EMC Captiva in a continuous delivery environment.
-tags: Capture, DevOps
 categories: Capture, DevOps
 ---
 

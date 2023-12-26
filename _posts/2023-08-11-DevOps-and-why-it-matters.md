@@ -3,7 +3,6 @@ layout: post
 title: DevOps and why it should matter when selecting your technology partner
 date: 2023-08-11
 description: You might have heard the term DevOps and wondered if it is a new process, a new technology, a job title or something entirely different. Or maybe you re more tech-savvy and automatically thought about continuous delivery, agile and infrastructure as code. But it is much more than that.
-tags: DevOps
 categories: DevOps
 ---
 
@@ -18,7 +17,7 @@ Definitions vary, but as the name suggests, DevOps integrates the two traditiona
 
 The books  The DevOps Handbook and The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win complete the definition in three ways :
 
-![DevOps]('assets\img\DevOps and why\DevOps and why.jpg')
+![DevOps]('\assets\img\DevOps and why\DevOps and why.jpg')
 
 1. Emphasizes the performance of the entire system, i.e. to increase frequency of deployments and improves the time to implement changes or new solutions.
 
@@ -30,7 +29,7 @@ The ultimate goal of DevOps is focusing on the customers needs and their busines
 
 But how does this turn into advantages for customers? Why should companies draw their attention to DevOps oriented technology partners?
 
-#KEY BENEFITS FOR CUSTOMERS
+# KEY BENEFITS FOR CUSTOMERS
 
 I am a DevOps Evangelist and became team coach about a year ago. The team consists of technical and business consultants with focus on ECM product implementations (OpenText s Captiva, Documentum and InfoArchive, Microsoft and BOX). We were delivering projects on time and within budget but morale was not on the expected level, so it became clear pretty fast that our project methodology could use a refresh. We set out to introduce DevOps and change the culture and way of working in our company.
 

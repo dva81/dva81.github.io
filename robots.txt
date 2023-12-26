@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dva81.github.iodva81//sitemap.xml
+Sitemap: https://dva81.github.io/sitemap.xml

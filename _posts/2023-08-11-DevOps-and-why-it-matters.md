@@ -17,7 +17,7 @@ Definitions vary, but as the name suggests, DevOps integrates the two traditiona
 
 The books  The DevOps Handbook and The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win complete the definition in three ways :
 
-![DevOps]('\assets\img\DevOps and why\DevOps and why.jpg')
+![DevOps](\assets\img\DevOps and why\DevOps and why.jpg)
 
 1. Emphasizes the performance of the entire system, i.e. to increase frequency of deployments and improves the time to implement changes or new solutions.
 

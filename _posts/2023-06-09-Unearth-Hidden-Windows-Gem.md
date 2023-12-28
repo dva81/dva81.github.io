@@ -30,25 +30,25 @@ Open the application
 
 you can find the application in the start menu of your Windows. Just type in Step Recorder
 
-![Unearth Hidden Windows Gems]('\assets\img\Unearth Hidden Windows Gems\Unearth Hidden Windows Gems (1).png')
+![Unearth Hidden Windows Gems](/assets/img/Unearth Hidden Windows Gems/Unearth Hidden Windows Gems (1).png)
 
 Adjust the number of captures.
 
 Set this to 100. Every scroll of the mouse is recorded, so if you are nervous, you'll have a lot of waste**.**
 
-![Unearth Hidden Windows Gems]('\assets\img\Unearth Hidden Windows Gems\Unearth Hidden Windows Gems (2).png')
+![Unearth Hidden Windows Gems](/assets/img/Unearth Hidden Windows Gems/Unearth Hidden Windows Gems (2).png)
 
 Start recording.
 
 Just click on Start
 
-![Unearth Hidden Windows Gems]('\assets\img\Unearth Hidden Windows Gems\Unearth Hidden Windows Gems (3).png')
+![Unearth Hidden Windows Gems](/assets/img/Unearth Hidden Windows Gems/Unearth Hidden Windows Gems (3).png)
 
 After recording
 
-![Unearth Hidden Windows Gems]('\assets\img\Unearth Hidden Windows Gems\Unearth Hidden Windows Gems (4).png')
+![Unearth Hidden Windows Gems](/assets/img/Unearth Hidden Windows Gems/Unearth Hidden Windows Gems (4).png)
 
-![Unearth Hidden Windows Gems]('\assets\img\Unearth Hidden Windows Gems\Unearth Hidden Windows Gems (5).png')
+![Unearth Hidden Windows Gems](/assets/img/Unearth Hidden Windows Gems/Unearth Hidden Windows Gems (5).png)
 
 You'll have the opportunity to save the recorded steps. It does this a .mht file in .zip container. After which you can unpack it and open the .mht file in Word.
 

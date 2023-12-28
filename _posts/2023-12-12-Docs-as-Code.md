@@ -34,35 +34,25 @@ The good thing was the team already tried to put documentation in repositories. 
 
 - Create a wiki and publish it as code
 
-<<<<<<< .mine
 ![publish it as code](assets/img/Docs-as-code/Docs-as-Code1.jpg)
-=======
-![publish it as code](assets/img/Docs-as-Code/Docs-as-Code1.jpg)
->>>>>>> .theirs
+
 
 - .md as format. Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. 
 
-<<<<<<< .mine
-![publish it as code](assets/img/Docs-as-code/Docs-as-Code2.png)
-=======
-![publish it as code](assets/img/Docs-as-Code/Docs-as-Code2.png)
->>>>>>> .theirs
+![publish it as code](assets/img/Docs-as-code/Docs-as-Code2.jpg)
 
-<<<<<<< .mine
-![publish it as code](assets/img/Docs-as-code/Docs-as-Code3.png)
-=======
-![publish it as code](assets/img/Docs-as-Code/Docs-as-Code3.png)
->>>>>>> .theirs
+![publish it as code](assets/img/Docs-as-code/Docs-as-Code3.jpg)
+
 
 - In the pipeline step the output is generated in pdf format using a standard task in Azure DevOps. and attached to the artifact for deployment. 
 
-![publish it as code](/assets/img/Docs-as-code/Docs-as-Code4.png)
+![publish it as code](/assets/img/Docs-as-code/Docs-as-Code4.jpg)
 
 - Releasing the documentation. In this step we automated the release to the right location for validation. After approval in Azure Devops that version was copied to the end user or production locations in the Power Platform solution. 
 
-![publish it as code](/assets/img/Docs-as-code/Docs-as-Code6.png)
+![publish it as code](/assets/img/Docs-as-code/Docs-as-Code6.jpg)
 
-![publish it as code](/assets/img/Docs-as-code/Docs-as-Code5.png)
+![publish it as code](/assets/img/Docs-as-code/Docs-as-Code5.jpg)
 
 # Bringing it all together
 

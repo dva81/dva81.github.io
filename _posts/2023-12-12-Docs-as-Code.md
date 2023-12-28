@@ -34,13 +34,25 @@ The good thing was the team already tried to put documentation in repositories. 
 
 - Create a wiki and publish it as code
 
+<<<<<<< .mine
 ![publish it as code](assets/img/Docs-as-code/Docs-as-Code1.jpg)
+=======
+![publish it as code](assets/img/Docs-as-Code/Docs-as-Code1.jpg)
+>>>>>>> .theirs
 
 - .md as format. Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. 
 
+<<<<<<< .mine
 ![publish it as code](assets/img/Docs-as-code/Docs-as-Code2.png)
+=======
+![publish it as code](assets/img/Docs-as-Code/Docs-as-Code2.png)
+>>>>>>> .theirs
 
+<<<<<<< .mine
 ![publish it as code](assets/img/Docs-as-code/Docs-as-Code3.png)
+=======
+![publish it as code](assets/img/Docs-as-Code/Docs-as-Code3.png)
+>>>>>>> .theirs
 
 - In the pipeline step the output is generated in pdf format using a standard task in Azure DevOps. and attached to the artifact for deployment. 
 

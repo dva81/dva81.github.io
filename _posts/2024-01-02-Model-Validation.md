@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mastering AI Model Validation: A Comprehensive Guide for Success
+title: Mastering AI Model Validation - A Comprehensive Guide for Success
 date: 2024-01-02 
 description: AI is everywhere these days! Yet is has existed since the beginning of the computer age. What is so different from 25 years ago? What makes it more powerful, more present? Why all the fuss? Over the last 10 years machine learning has become extremely powerful. 
 categories: Power Platform, AI

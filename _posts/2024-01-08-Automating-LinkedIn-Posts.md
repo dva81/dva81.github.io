@@ -2,7 +2,7 @@
 layout: post
 title: Automating LinkedIn Posts - A Simple Scheduler for Busy Professionals
 date: 2024-01-11
-description: As a practice lead, staying active on LinkedIn is crucial for promoting both yourself and your business. Many professionals dedicate time to post regularly or leverage scheduling functions to maintain a consistent online presence. However, when it comes to bulk scheduling posts over an extended period, LinkedIn lacks a native feature. Even the LinkedIn API falls short in this aspect, leaving you in need of a customized solution.
+description: Many professionals dedicate time to post regularly or leverage scheduling functions to maintain a consistent online presence. However, when it comes to bulk scheduling posts over an extended period, LinkedIn lacks a native feature. Even the LinkedIn API falls short in this aspect, leaving you in need of a customized solution.
 categories: Power Platform
 ---
 
@@ -27,6 +27,7 @@ The first step involves creating a connection with LinkedIn using the standard f
 To add variety to your posts, leverage Power Automate's functions. Utilize the rand function to dynamically generate messages, ensuring a mix of content in your posts.
 ![Automating LinkedIn Posts](/assets/img/Automating LinkedIn Posts/Automating LinkedIn Posts (5).png)
 ![Automating LinkedIn Posts](/assets/img/Automating LinkedIn Posts/Automating LinkedIn Posts (1).png)
+
 ##  Step 3: Bi-weekly Scheduling
 Implement a scheduling mechanism within the flow to post every two weeks. This ensures a consistent presence on your LinkedIn profile.
 ![Automating LinkedIn Posts](/assets/img/Automating LinkedIn Posts/Automating LinkedIn Posts (4).png)

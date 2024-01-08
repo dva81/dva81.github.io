@@ -2,7 +2,7 @@
 layout: post
 title: Automating LinkedIn Posts - A Simple Scheduler for Busy Professionals
 date: 2024-01-11
-description: Many professionals dedicate time to post regularly or leverage scheduling functions to maintain a consistent online presence. However, when it comes to bulk scheduling posts over an extended period, LinkedIn lacks a native feature. Even the LinkedIn API falls short in this aspect, leaving you in need of a customized solution.
+description: Many professionals dedicate time to post regularly or leverage scheduling functions to maintain a consistent online presence. However, when it comes to bulk scheduling posts, LinkedIn lacks a native feature, leaving you in need of a customized solution.
 categories: Power Platform
 ---
 

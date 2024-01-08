@@ -3,7 +3,7 @@ layout: post
 title: Automating LinkedIn Posts - A Simple Scheduler for Busy Professionals
 date: 2024-01-11
 description: Many professionals dedicate time to post regularly or leverage scheduling functions to maintain a consistent online presence. However, when it comes to bulk scheduling posts, LinkedIn lacks a native feature, leaving you in need of a customized solution.
-categories: Power Platform
+categories: PowerPlatform
 ---
 
 
@@ -19,20 +19,21 @@ In my quest to efficiently manage my LinkedIn content, I decided to create a sim
 # Building the Power Automate Flow
 ![Automating LinkedIn Posts](/assets/img/Automating LinkedIn Posts/Automating LinkedIn Posts (3).png)
 
-## Step 1: Connect with LinkedIn
+## Step 1 Connect with LinkedIn
 The first step involves creating a connection with LinkedIn using the standard free connector. Simply use your credentials to log in and establish the connection.
 ![Automating LinkedIn Posts](/assets/img/Automating LinkedIn Posts/Automating LinkedIn Posts (2).png)
 
-## Step 2: Dynamic Message Creation
+## Step 2 Dynamic Message Creation
 To add variety to your posts, leverage Power Automate's functions. Utilize the rand function to dynamically generate messages, ensuring a mix of content in your posts.
 ![Automating LinkedIn Posts](/assets/img/Automating LinkedIn Posts/Automating LinkedIn Posts (5).png)
+
 ![Automating LinkedIn Posts](/assets/img/Automating LinkedIn Posts/Automating LinkedIn Posts (1).png)
 
-##  Step 3: Bi-weekly Scheduling
+##  Step 3 Bi-weekly Scheduling
 Implement a scheduling mechanism within the flow to post every two weeks. This ensures a consistent presence on your LinkedIn profile.
 ![Automating LinkedIn Posts](/assets/img/Automating LinkedIn Posts/Automating LinkedIn Posts (4).png)
 
-Step 4: Stay in Control
+Step 4 Stay in Control
 The entire solution is designed to keep you in control. By dynamically creating messages, scheduling bi-weekly posts, and leveraging Power Automate's capabilities, you can confidently manage your LinkedIn content for the next two years.
 
 # Access the Power Automate Flow

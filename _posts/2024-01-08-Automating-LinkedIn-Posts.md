@@ -36,7 +36,7 @@ Step 4: Stay in Control
 The entire solution is designed to keep you in control. By dynamically creating messages, scheduling bi-weekly posts, and leveraging Power Automate's capabilities, you can confidently manage your LinkedIn content for the next two years.
 
 # Access the Power Automate Flow
-To implement this solution, you can download the source files directly from [GitHub]{https://github.com/dva81/PowerAutomate}. Don't forget to turn the flow on after setting it up.
+To implement this solution, you can download the source files directly from [GitHub](https://github.com/dva81/PowerAutomate). Don't forget to turn the flow on after setting it up.
 
 Empower your LinkedIn strategy by taking charge of your posting schedule with this simple yet effective Power Automate Flow. Stay visible, stay engaged, and let automation work for you!
 

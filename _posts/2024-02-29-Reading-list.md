@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A Collection of Must-Reads for the IT consultant
-date: 2024-03-01
+date: 2024-02-29
 description: This is my collection of Must-Reads for the IT consultant.
-categories: 
+categories: Agile Leadership
 ---
 
 This is my collection of Must-Reads for the IT consultant! Happy Reading
@@ -37,3 +37,4 @@ https://www.opengroup.org/archimate-forum/archimate-overview
 
 ## Dealing with People You Can't Stand: How to Bring Out the Best in People at Their Worst
 https://www.goodreads.com/book/show/734384.Dealing_with_People_You_Can_t_Stand
+

@@ -34,3 +34,6 @@ https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_Peopl
 
 ## About the ArchiMate Modeling Language
 https://www.opengroup.org/archimate-forum/archimate-overview
+
+## Dealing with People You Can't Stand: How to Bring Out the Best in People at Their Worst
+https://www.goodreads.com/book/show/734384.Dealing_with_People_You_Can_t_Stand

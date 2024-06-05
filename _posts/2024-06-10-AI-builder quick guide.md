@@ -1,4 +1,12 @@
-# Streamlining Document Processing with AI Builder: A Practical Guide
+---
+layout: post
+title: Document Processing with AI Builder: A Practical Guide to the document automation toolkit
+date: 2024-06-10
+description: This blog post delves into the workings of the Document Automation Toolkit within AI Builder, detailing the steps involved in setting it up and the adjustments necessary to tailor it to specific needs.
+categories: Agile Leadership
+---
+
+# Document Processing with AI Builder: A Practical Guide to the document automation toolkit
 
 In today's fast-paced digital landscape, document automation is an essential tool for businesses looking to improve efficiency and accuracy. Microsoft’s AI Builder provides a comprehensive solution for automating document processing, integrating seamlessly with other Microsoft services like SharePoint and Teams. This blog post delves into the workings of the Document Automation Toolkit within AI Builder, detailing the steps involved in setting it up and the adjustments necessary to tailor it to specific needs.
 

@@ -44,8 +44,5 @@ Bulk deletion of documents is not supported out of the box. To manage this, a ma
 
 ## Conclusion
 
-Microsoft’s AI Builder Document Automation Toolkit offers robust features for automating document processing tasks. While the out-of-the-box functionalities provide a solid starting point, specific customizations and adjustments can significantly enhance usability and performance. By addressing UI challenges, overcoming complex table extraction issues, modifying field restrictions, and implementing manual deletion queries, businesses can tailor the AI Builder to meet their unique requirements, ensuring a more efficient and streamlined document automation process.
+Microsoft’s AI Builder and Document Automation Toolkit offers robust features for automating document processing tasks. While the out-of-the-box functionalities provide a solid starting point, specific customizations and adjustments can significantly enhance usability and performance. By addressing UI challenges, overcoming complex table extraction issues, modifying field restrictions, and implementing manual deletion queries, businesses can tailor the AI Builder to meet their unique requirements, ensuring a more efficient and streamlined document automation process.
 
-For those looking to delve deeper into document automation, exploring the full capabilities of AI Builder and making these tailored adjustments can unlock new levels of productivity and accuracy in managing documents.
-
-My focus is on structuring, automating and managing business processes using Agile and DevOps best practices. This creates team working environments where business continuity, transparency and human capital come first. Reach out to me on LinkedIn or check out my GitHub for more tips and tricks.

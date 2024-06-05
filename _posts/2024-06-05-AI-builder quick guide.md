@@ -15,8 +15,8 @@ You can access the document automation toolkit in Power Automate.
 Learn about the toolkit on [Document automation toolkit - AI Builder | Microsoft Learn](https://learn.microsoft.com/en-us/ai-builder/doc-automation) 
 
 ### 1. Setting Up the Solution
-
 To begin, create a new solution within the AI Builder environment and import all necessary components. This step is straightforward, enabling users to swiftly set up a foundation for their document automation process.
+![image](https://github.com/dva81/dva81.github.io/assets/65031840/6f6d19a2-4ba8-48f5-b961-6a53b5bc43bf)
 
 ### 2. Model Configuration
 Next, create a simple model to complete the initial configuration steps within the app. This involves defining the types of documents to be processed and the data fields to be extracted.

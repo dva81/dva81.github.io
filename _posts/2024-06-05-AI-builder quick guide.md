@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Document Processing with AI Builder: A Practical Guide to the document automation toolkit
+title: Document Processing with AI Builder - A Practical Guide to the document automation toolkit
 date: 2024-06-05
 description: This blog post delves into the workings of the Document Automation Toolkit within AI Builder, detailing the steps involved in setting it up and the adjustments necessary to tailor it to specific needs.
 categories: PowerPlatform AI

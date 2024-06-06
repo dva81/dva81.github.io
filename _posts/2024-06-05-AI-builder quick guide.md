@@ -13,6 +13,7 @@ In today's fast-paced digital landscape, document automation is an essential too
 ## Getting Started: Out-of-the-Box Functionality
 You can access the document automation toolkit in Power Automate.
 Learn about the toolkit on [Document automation toolkit - AI Builder | Microsoft Learn](https://learn.microsoft.com/en-us/ai-builder/doc-automation) 
+The inital installation is standard and next-next-finish. The two installations I did stalled on the last step but after closing and the installation was ok. 
 
 ### 1. Setting Up the Solution
 To begin, create a new solution within the AI Builder environment and import all necessary components. This step is straightforward, enabling users to swiftly set up a foundation for their document automation process.
@@ -20,12 +21,16 @@ To begin, create a new solution within the AI Builder environment and import all
 
 ### 2. Model Configuration
 Next, create a simple model to complete the initial configuration steps within the app. This involves defining the types of documents to be processed and the data fields to be extracted.
+![image](https://github.com/dva81/dva81.github.io/assets/65031840/9eb347fd-6b54-44da-833c-067df788d422)
 
 ### 3. Base Flow Testing
 Test the base flow by integrating it with an email system. This initial test ensures that the basic document processing pipeline is functioning correctly.
 
 ### 4. Integrating File Imports
 Adjust the flow to accommodate file imports from SharePoint or Teams. This integration allows for a seamless transition of documents from these storage solutions into the AI Builder processing pipeline.
+For this I duplicated the email importer flow and adjusted the steps in get the files from a sharepoint location. 
+
+It took only a few hours to get the document automation application up and running. After processing a few documents a few opportunities for improvement emerged 
 
 ## Customizing Features for Enhanced Usability
 

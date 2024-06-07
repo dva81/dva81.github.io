@@ -18,11 +18,11 @@ In many cases, business stakeholders on the client side are not ready to level w
 
 So how can an agile product owner gain trust from his team and value for the client in any software development project? As per my experience, I have listed the top 4 areas in which a Product Owner must perform well to keep scrum teams effective:
 
-1. You are a leader!
+## You are a leader!
 
 You lead the product development... getting the most value for the client. Agile dictates a self-organizing team and the product owner is second servant-leader in the team, next to the Agile lead or Scrum master. Always deliver added business value even if the development team wants to clean up technical debt. Get grip on your resources and lead them to a better product, but also be aware that code/infra is a living organism.
 
-2. Product Purpose - Mission
+## Product Purpose - Mission
 
 Know your product/mission in and out. Breathe it, live it. Envision it.
 
@@ -30,7 +30,7 @@ Focus more on the team instead of business stakeholders. Stakeholders are import
 
 Take ownership of the project and demos, don t rely on the dev team to show what was accomplished as a team. Get involved in all the processes from deployment to production and also in maintenance operations, gathering necessary feedback to continuously improve.
 
-3. Know your backlog
+## Know your backlog
 
 The team can only start working if they clearly know what to do. Backlog management must be done properly. The PO must challenge the development team to improve the backlog, connect with the target audience (users) and log progress in an issue tracker. 
 
@@ -39,7 +39,7 @@ What is important? Prioritize, not everything is priority 1.
 Incident control is not the same as the introduction of a new feature or US and vice versa, so they cannot be simply pulled in a sprint.
 Get your stories ready by making sure User Acceptance Tests (UAT) and operations acceptance criteria are clear.
 
-4. Delivering quality
+## Delivering quality
 
 Inspect and adapt! This is something we hear often in Agile. The PO is responsible for the value that will be delivered by the whole team, but value also means quality. There is no value if the users don t want to accept it and the product is not up to standards.
 

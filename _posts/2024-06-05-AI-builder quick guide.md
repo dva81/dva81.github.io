@@ -11,12 +11,12 @@ categories: PowerPlatform AI
 In today's fast-paced digital landscape, document automation is an essential tool for businesses looking to improve efficiency and accuracy. Microsoft’s AI Builder provides a comprehensive solution for automating document processing, integrating seamlessly with other Microsoft services like SharePoint and Teams. This blog post delves into the workings of the Document Automation Toolkit within AI Builder, detailing the steps involved in setting it up and the adjustments necessary to tailor it to specific needs.
 
 ## Getting Started: Out-of-the-Box Functionality
-You can access the document automation toolkit in Power Automate.
-Learn about the toolkit on [Document automation toolkit - AI Builder | Microsoft Learn](https://learn.microsoft.com/en-us/ai-builder/doc-automation) 
-The inital installation is standard and next-next-finish. The two installations I did stalled on the last step but after closing and the installation was ok. 
+You can access the document automation toolkit in Power Automate. Learn about the toolkit on [Document automation toolkit - AI Builder | Microsoft Learn](https://learn.microsoft.com/en-us/ai-builder/doc-automation) 
+The inital installation is standard and next-next-finish. You do need some knowledge of Power Platform if tyou want to get started with this.  
+The two installations I did stalled on the last step but after closing and after a check the installation was ok. 
 
 ### 1. Setting Up the Solution
-To begin, create a new solution within the AI Builder environment and import all necessary components. This step is straightforward, enabling users to swiftly set up a foundation for their document automation process.
+To begin, create a new solution within the Power Platformr environment and import all toolkit components. The Toolkit comes as a managed solution, so this way you can make the necesary adjustments. This step is straightforward, enabling users to swiftly set up a foundation for their document automation process.
 ![image](https://github.com/dva81/dva81.github.io/assets/65031840/6f6d19a2-4ba8-48f5-b961-6a53b5bc43bf)
 
 ### 2. Model Configuration
@@ -25,6 +25,17 @@ Next, create a simple model to complete the initial configuration steps within t
 
 ### 3. Base Flow Testing
 Test the base flow by integrating it with an email system. This initial test ensures that the basic document processing pipeline is functioning correctly.
+
+Check and test the email importer flow
+![image](https://github.com/dva81/dva81.github.io/assets/65031840/70e4aa74-1942-475f-8547-48d6892ab21c)
+
+Configure the Power App to use the correct model. 
+![image](https://github.com/dva81/dva81.github.io/assets/65031840/4d4fd77b-46be-4219-9fa6-5b3ecc7425d4)
+
+Ready to go!
+![image](https://github.com/dva81/dva81.github.io/assets/65031840/6b63ee00-ae52-4057-967d-47efda211e02)
+
+
 
 ### 4. Integrating File Imports
 Adjust the flow to accommodate file imports from SharePoint or Teams. This integration allows for a seamless transition of documents from these storage solutions into the AI Builder processing pipeline.

@@ -5,6 +5,7 @@ date: 2024-06-07
 description: In this article I am sharing my take on deploying a Power Platform Solution across environments. How to use a repo, build pipeline and release to different environments.
 categories: PowerPlatform AI DevOps
 ---
+![image](https://github.com/dva81/dva81.github.io/assets/65031840/d77e6d4e-e909-4815-a743-f1c927f8ab73)
 
 # Azure DevOps : Easily deploy a Power platform solution
 

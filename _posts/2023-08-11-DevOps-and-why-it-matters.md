@@ -29,33 +29,33 @@ The ultimate goal of DevOps is focusing on the customers needs and their busines
 
 But how does this turn into advantages for customers? Why should companies draw their attention to DevOps oriented technology partners?
 
-# KEY BENEFITS FOR CUSTOMERS
+## KEY BENEFITS FOR CUSTOMERS
 
 I am a DevOps Evangelist and became team coach about a year ago. The team consists of technical and business consultants with focus on ECM product implementations (OpenText s Captiva, Documentum and InfoArchive, Microsoft and BOX). We were delivering projects on time and within budget but morale was not on the expected level, so it became clear pretty fast that our project methodology could use a refresh. We set out to introduce DevOps and change the culture and way of working in our company.
 
 DevOps is all about improving the flow from development to customer and back, to help us deliver the best possible results and overall experience to the end-users. The key benefits of DevOps which we have experienced are:
 
-# FASTER IMPLEMENTATION OF NEW PRODUCTS AND FEATURES
+## FASTER IMPLEMENTATION OF NEW PRODUCTS AND FEATURES
 
 By writing software in small chunks that are integrated, tested, monitored and deployed usually in hours versus weeks or months in traditional methodologies  we are able to implement changes or offer new solutions faster and more often. In short, we improved our ability to solve customers Enterprise Content Management challenges and reciprocated to their needs efficiently.
 
-# HIGH QUALITY AND MORE STABILITY 
+## HIGH QUALITY AND MORE STABILITY 
 
 More speed didn t compromise on quality. While continuous delivery by itself is a high quality service indicator, we were also able to reduce unplanned work and rework, as well as the time spent dealing with security issues. The cross-disciplinary approach of DevOps maximizes reliability in all areas. Our higher response rate to any requests also adds up to increased stability, which is key for any business platform.
 
-# QUICKER DETECTION AND RESOLUTION OF PROBLEMS
+## QUICKER DETECTION AND RESOLUTION OF PROBLEMS
 
 Thanks to better communication and collaboration between operations, software development and customer teams, we improved the feedback loops to quickly mitigate software defects at any stage of the development cycle. In the event of a new release crashing or otherwise disabling the current systems, we were also able to accelerate recovery from downtime. This allows us to proactively identify and resolve vulnerabilities before they impact our customers.
 
-# REDUCED HUMAN ERRORS
+## REDUCED HUMAN ERRORS
 
 [Research](https://puppet.com/resources/whitepaper/state-of-devops-report) shows approximately 30% of the development process can be automated, including configuration management, testing, deployments and change approval processes. Replacing cookbooks for all these tasks with automated procedures helps in getting a steady output to our customers, by having the code base in a ready-to-deploy state, and reduces manual mistakes which could otherwise happen.
 
-# INCREASED ADDED VALUE AND INNOVATION
+## INCREASED ADDED VALUE AND INNOVATION
 
 By reducing change failure rates and downtime recovery times, our cross-functional teams had more time to collect and implement customer feedback, even at early stages. From these inputs, they could change requirements or specifications, giving them more room to innovate and provide more value to the customer. Improved communication, knowledge sharing and experimentation implicit in DevOps also spreads innovative ideas more easily through all the customer projects.
 
-# IMPROVED EMPLOYEE ATTITUDE
+## IMPROVED EMPLOYEE ATTITUDE
 
 We also used a Guild approach, which provides a horizontal communication layer across our Product Engineering teams. Our engineers, testers, and other staff use them to set their own missions, to establish technical roadmaps, to take on joint tasks and to promote knowledge sharing. This initiative, combined with the increased involvement of all in the development lifecycle, leads to happier, more collaborative and productive teams, and this culture shift is likely to spread outside the company.
 

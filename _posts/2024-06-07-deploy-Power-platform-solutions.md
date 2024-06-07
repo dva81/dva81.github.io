@@ -5,11 +5,10 @@ date: 2024-06-07
 description: In this article I am sharing my take on deploying a Power Platform Solution across environments. How to use a repo, build pipeline and release to different environments.
 categories: PowerPlatform AI DevOps
 ---
-![image](https://github.com/dva81/dva81.github.io/assets/65031840/d77e6d4e-e909-4815-a743-f1c927f8ab73)
 
 # Azure DevOps : Easily deploy a Power platform solution
 
-I have been a Azure DevOps enthousiast for years. The ease of use, flexibility of the platform are super. In this article I am sharing my not-so-complex take on deploying a Power Platform Solution across environments.
+I have been an Azure DevOps enthousiast for years. The ease of use, flexibility of the platform are super. In this article I am sharing my not-so-complex take on deploying a Power Platform Solution across environments.
 I will explain how to use a repo, build pipeline and release to different environments.
 
 ## Repos
@@ -27,7 +26,7 @@ I see pipelines as a means to create a deployable artifact of deployable item. S
 As you can see this package contains everything you need to deploy to any environment. So even if you want to revert the development environment you can do it with this package.
  
 ## Pipelines  - Release 
-The release stages are set up from the build output / artifact. Everything is there so no need for other sources. In this example we have three environment to deploy to and this can be across tenants if needed. We use the service connections for the connections. 
+The release stages are set up from the build output / artifact. Everything is there so no need for other sources. In this example we have three environments to deploy to and this can be across tenants if needed. We use the service connections for the connections. 
 
 ![release stages](https://github.com/dva81/dva81.github.io/assets/65031840/96a44216-f9fd-4ec3-8ab2-7828c6861566)
 
@@ -41,7 +40,7 @@ As far as actions go. Always install the tool on the agent and import the soluti
 
 Hope this helps! Feel free to reach out on LinkedIn. 
 
-Also check out this post if you are interessed in Azure DevOps! [Boosting Efficiency Docs-as-Code Strategies with Power Platform and Azure DevOps](https://www.dennisvanaelst.net/blog/2023/Docs-as-Code/)
+Also check out this post if you are interested in Azure DevOps! [Boosting Efficiency Docs-as-Code Strategies with Power Platform and Azure DevOps](https://www.dennisvanaelst.net/blog/2023/Docs-as-Code/)
  or this https://learn.microsoft.com/en-us/shows/devops-lab/how-to-deploy-power-platform-with-azure-devops
 
 

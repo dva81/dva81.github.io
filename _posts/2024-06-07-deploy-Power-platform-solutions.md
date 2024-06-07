@@ -36,9 +36,9 @@ As far as actions go. Always install the tool on the agent and import the soluti
 
 ![deployment settings](https://github.com/dva81/dva81.github.io/assets/65031840/0f5fb92b-1154-436f-8821-8336a7ca3347)
 
-# Don't overcomplicate
+> Don't overcomplicate!
 
-
+Hope this helps! Feel free to contact me on LinkedIn 
 Also check out this post if you like Azure DevOps! [Boosting Efficiency Docs-as-Code Strategies with Power Platform and Azure DevOps](https://www.dennisvanaelst.net/blog/2023/Docs-as-Code/)
 
 

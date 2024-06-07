@@ -8,11 +8,11 @@ categories: PowerPlatform AI DevOps
 
 # Azure DevOps : Easily deploy a Power platform solution
 
-I have been an Azure DevOps enthousiast for years. The ease of use, flexibility of the platform are super. In this article I am sharing my not-so-complex take on deploying a Power Platform Solution across environments.
+I have been an Azure DevOps enthousiast for years. The ease of use and flexibility of the platform are super. In this article I am sharing my not-so-complex take on deploying a Power Platform Solution across environments.
 I will explain how to use a repo, build pipeline and release to different environments.
 
 ## Repos
-There is no need to download the solution in a repo if you are not going to manipulate the source / zip file. Using the repo for the deployment settings file is a good practice as these are configurations that are not managed in the solution. This way you do have version control over the het deployment settings. The solution versions are managed in Power Platform or you can revert from the artifact 
+There is no need to download the solution in a repo if you are not going to manipulate the source / zip file. Using the repo for the deployment settings json file is a good practice as these are configurations that are not managed in the solution. This way you can have version control over the het deployment settings. The solution versions are managed in Power Platform or you can revert from the artifact 
 
 ![image](https://github.com/dva81/dva81.github.io/assets/65031840/9ed4499a-b617-44de-9df4-0c93aeb1bd00)
 
@@ -23,14 +23,14 @@ I see pipelines as a means to create a deployable artifact of deployable item. S
 
 ![artifact content](https://github.com/dva81/dva81.github.io/assets/65031840/8502521d-d641-4a56-b9ea-ff25f860f638)
 
-As you can see this package contains everything you need to deploy to any environment. So even if you want to revert the development environment you can do it with this package.
+This package contains everything you need to deploy to any environment. So even if you want to revert the development environment you can do it with this package.
  
 ## Pipelines  - Release 
-The release stages are set up from the build output / artifact. Everything is there so no need for other sources. In this example we have three environments to deploy to and this can be across tenants if needed. We use the service connections for the connections. 
+The release stages are set up from the build output / artifact. Everything is in the artifact, there so no need for other sources. In this example we have three environments to deploy. This can be across tenants if needed. We use the service connections for the connections. 
 
 ![release stages](https://github.com/dva81/dva81.github.io/assets/65031840/96a44216-f9fd-4ec3-8ab2-7828c6861566)
 
-As far as actions go. Always install the tool on the agent and import the solution using the json we configured.
+As far as actions go. Always install the tool on the agent and import the solution using the deployment settings json file we configured in the repo.
 
 ![stage actions](https://github.com/dva81/dva81.github.io/assets/65031840/9ef2c0b1-f4e7-4589-bc81-546229476b69)
 

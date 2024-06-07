@@ -11,12 +11,12 @@ categories: PowerPlatform AI
 In today's fast-paced digital landscape, document automation is an essential tool for businesses looking to improve efficiency and accuracy. Microsoft’s AI Builder provides a comprehensive solution for automating document processing, integrating seamlessly with other Microsoft services like SharePoint and Teams. This blog post delves into the workings of the Document Automation Toolkit within AI Builder, detailing the steps involved in setting it up and the adjustments necessary to tailor it to specific needs.
 
 ## Getting Started: Out-of-the-Box Functionality
-You can access the document automation toolkit in Power Automate. Learn about the toolkit on [Document automation toolkit - AI Builder | Microsoft Learn](https://learn.microsoft.com/en-us/ai-builder/doc-automation) 
-The inital installation is standard and next-next-finish. You do need some knowledge of Power Platform if tyou want to get started with this.  
-The two installations I did stalled on the last step but after closing and after a check the installation was ok. 
+You can access the document automation toolkit in Power Automate. Learn about the toolkit on [Document automation toolkit - AI Builder | Microsoft Learn](https://learn.microsoft.com/en-us/ai-builder/doc-automation). 
+The inital installation is standard and next-next-finish. You do need some knowledge of Power Platform if you want to get started with this.  
+The two installations I did stalled on the last step but everything looked in working order after a refresh of the browser. 
 
 ### 1. Setting Up the Solution
-To begin, create a new solution within the Power Platformr environment and import all toolkit components. The Toolkit comes as a managed solution, so this way you can make the necesary adjustments. This step is straightforward, enabling users to swiftly set up a foundation for their document automation process.
+To begin, create a new solution within the Power Platform environment and import all toolkit components. The Toolkit comes as a managed solution, so this way you can make the necesary adjustments to the flow's, apps and dataverse tables. This step is straightforward, enabling users to swiftly set up a foundation for their document automation process.
 ![image](https://github.com/dva81/dva81.github.io/assets/65031840/6f6d19a2-4ba8-48f5-b961-6a53b5bc43bf)
 
 ### 2. Model Configuration
@@ -39,14 +39,16 @@ Ready to go!
 
 ### 4. Integrating File Imports
 Adjust the flow to accommodate file imports from SharePoint or Teams. This integration allows for a seamless transition of documents from these storage solutions into the AI Builder processing pipeline.
-For this I duplicated the email importer flow and adjusted the steps in get the files from a sharepoint location. 
+For this I duplicated the email importer flow and adjusted the steps in the flow to retrieve the files from a sharepoint location. 
 
-It took only a few hours to get the document automation application up and running. After processing a few documents a few opportunities for improvement emerged 
+It took only a few hours to get the document automation application up and running. After processing a few documents a few opportunities for improvement emerged.
 
 ## Customizing Features for Enhanced Usability
 
 ### 1. Enhancing the User Interface
-The out-of-the-box user interface (UI) includes an interactive table, which may not be entirely user-friendly for all scenarios. To improve this, custom buttons and actions were created within the app, enhancing the overall user experience (UX) and making the toolkit more intuitive.
+The out-of-the-box user interface (UI) includes an interactive table, which may not be entirely user-friendly for all scenarios like high volume input or table manipulation. To improve this, custom buttons and actions were created within the app, enhancing the overall user experience (UX) and making the toolkit more intuitive.
+I added an add, delete and copy row button and a general save button. The copy function is great if lines have similar text in it and were not extracted properly. 
+And the lay-out was tweaked a bit. The pdf viewer was made a bit smaller to allow for more room for the table and fields. 
 ![image](https://github.com/dva81/dva81.github.io/assets/65031840/22280ec1-a86a-48e5-9f5a-f66a4463c785)
 
 ### 2. Overcoming Table Structure Challenges

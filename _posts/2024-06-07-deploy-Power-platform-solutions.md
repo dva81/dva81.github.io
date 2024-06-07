@@ -26,15 +26,17 @@ I see pipelines as a means to create a deployable artifact of deployable item. S
 As you can see this package contains everything you need to deploy to any environment. So even if you want to revert the development environment you can do it with this package.
  
 ## Pipelines  - Release 
-The release stages 
+The release stages are set up from the build output / artifact. Everything is there so no need for other sources. In this example we have three environment to deploy to and this can be across tenants if needed. We use the service connections for the connections. 
 
 ![release stages](https://github.com/dva81/dva81.github.io/assets/65031840/96a44216-f9fd-4ec3-8ab2-7828c6861566)
 
-![image](https://github.com/dva81/dva81.github.io/assets/65031840/9ef2c0b1-f4e7-4589-bc81-546229476b69)
+As far as actions go. Always install the tool on the agent and import the solution using the json we configured.
 
-![image](https://github.com/dva81/dva81.github.io/assets/65031840/0f5fb92b-1154-436f-8821-8336a7ca3347)
+![stage actions](https://github.com/dva81/dva81.github.io/assets/65031840/9ef2c0b1-f4e7-4589-bc81-546229476b69)
 
+![deployment settings](https://github.com/dva81/dva81.github.io/assets/65031840/0f5fb92b-1154-436f-8821-8336a7ca3347)
 
+# Don't overcomplicate
 
 
 Also check out this post if you like Azure DevOps! [Boosting Efficiency Docs-as-Code Strategies with Power Platform and Azure DevOps](https://www.dennisvanaelst.net/blog/2023/Docs-as-Code/)

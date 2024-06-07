@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure DevOps - Easily deploy a Power platform solution
-date: 2024-06-10
+date: 2024-06-07
 description: In this article I am sharing my take on deploying a Power Platform Solution across environments. How to use a repo, build pipeline and release to different environments.
 categories: PowerPlatform AI DevOps
 ---

@@ -54,6 +54,7 @@ In cases where a complex table structure needs to be extracted over multiple pag
 
 ### 3. Addressing Field Restrictions
 The default character length restriction in Dataverse tables is set to for example 100 characters. For our model, longer field lengths were necessary. Adjusting these settings in Dataverse was possible but initially caused errors during testing. By tweaking these settings and running multiple tests, the issues were eventually resolved, allowing for smoother data processing.
+![image](https://github.com/dva81/dva81.github.io/assets/65031840/8d4fa078-950d-4176-a25f-3801a5f67ecd)
 
 ### 4. Managing Bulk Deletion
 Bulk deletion of documents is not supported out of the box. To manage this, a manual query was created for document deletion within Dataverse tables. This workaround ensured that unnecessary documents could be efficiently removed without manual intervention.

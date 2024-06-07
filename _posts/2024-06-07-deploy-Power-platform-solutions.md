@@ -41,6 +41,6 @@ As far as actions go. Always install the tool on the agent and import the soluti
 Hope this helps! Feel free to reach out on LinkedIn. 
 
 Also check out this post if you are interessed in Azure DevOps! [Boosting Efficiency Docs-as-Code Strategies with Power Platform and Azure DevOps](https://www.dennisvanaelst.net/blog/2023/Docs-as-Code/)
-
+ or this https://learn.microsoft.com/en-us/shows/devops-lab/how-to-deploy-power-platform-with-azure-devops
 
 

@@ -8,7 +8,7 @@ categories: PowerPlatform AI DevOps
 
 # Azure DevOps : Easily deploy a Power platform solution
 
-I have been an Azure DevOps enthousiast for years. The ease of use and flexibility of the platform are super. In this article I am sharing my not-so-complex take on deploying a Power Platform Solution across environments.
+I have been an Azure DevOps enthusiast for years. The ease of use and flexibility of the platform are super. In this article I am sharing my not-so-complex take on deploying a Power Platform Solution across environments.
 I will explain how to use a repo, build pipeline and release to different environments.
 
 ## Repos

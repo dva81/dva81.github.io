@@ -43,7 +43,8 @@ Cross-validation is a technique used in machine learning to evaluate the perform
 
 3. Leave-One-Out Cross-Validation: In leave-one-out cross-validation, we use all but one sample for training and the remaining sample for testing. We repeat this process for all samples in the dataset and average the performance over all trials.
 
-A Power Platform Example
+# A Power Platform Example
+
 Let us say we have created a model in [AI builder](https://learn.microsoft.com/en-us/ai-builder/), and you want to see if it works as expected. Power Platform comes some standard prediction engines and features, still it is always a good idea to validate the outcome of a process. 
 
 This technique can also be used with models created by other technologies as well. 

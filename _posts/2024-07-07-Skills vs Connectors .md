@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: Skills vs Connectors in Microsoft Copilot Studio: Making the Right Choice
+title: Skills vs Connectors in Microsoft Copilot Studio - Making the Right Choice
 date: 2024-07-07
 description: In this article I am sharing my take on deploying a Power Platform Solution across environments. How to use a repo, build pipeline(s) and release to different environments.
 categories: PowerPlatform AI DevOps

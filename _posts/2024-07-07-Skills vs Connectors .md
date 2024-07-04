@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Skills vs Connectors in Microsoft Copilot Studio - Making the Right Choice

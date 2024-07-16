@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Streamline Your Time Tracking - How to Use Outlook and Power Automate for Efficient Reporting
-date: 2024-06-05
+date: 2024-06-30
 description: When working with various customers and projects, you often need to fill in timesheets for each one in multiple systems and formats. I devised a straightforward method to log all my activities in Outlook and generate simple weekly reports.
 categories: PowerPlatform AI
 ---

@@ -6,7 +6,8 @@ description: When working with various customers and projects, you often need to
 categories: PowerPlatform AI
 ---
 
-# Document Processing with AI Builder: A Practical Guide to the document automation toolkit
+# Streamline Your Time Tracking - How to Use Outlook and Power Automate for Efficient Reporting
+
 If you are an organized consultant or developer, you might recognize the screenshot from the Outlook calendar below. It's color-coded, organized, and includes different topics, meetings, customers, and projects. When working with various customers and projects, you often need to fill in timesheets for each one in multiple systems and formats.
 I constantly lose track and am not good at handling multi-faceted administration across different tools and software. To simplify this, I devised a straightforward method to log all my activities in Outlook and generate simple weekly reports.
 

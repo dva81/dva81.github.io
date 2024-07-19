@@ -26,7 +26,7 @@ We will be using the following components.
 - Power Platform environment with a solution to export 
 
 The example will be importing from only one environment but it can be extended if needed.
-If you are reading this article, I can safely assume you know your way around Microsoft Power Platform. However source control is not always related to low code so if you are new to GITHUB check out this Beginner's guide to GitHub repositories: [How to create your first repo - The GitHub Blog]
+If you are reading this article, I can safely assume you know your way around Microsoft Power Platform. However source control is not always related to low code so if you are new to GITHUB check out this Beginner's guide to GitHub repositories: [How to create your first repo - The GitHub Blog](https://github.blog/2024-06-24-beginners-guide-to-github-repositories-how-to-create-your-first-repo/)
 
 ## Build 
 There are two pipelines. Get the Solution and Pack and drop branches

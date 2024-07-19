@@ -3,7 +3,7 @@ layout: post
 title: Skills vs Connectors in Microsoft Copilot Studio - Making the Right Choice
 date: 2024-07-07
 description: This article provides a foundational understanding to help you navigate the choice between Skills and Connectors in Microsoft Copilot Studio. 
-categories: PowerPlatform AI DevOps
+categories: PowerPlatform AI DevOps Copilot
 ---
 
 # Skills vs Connectors in Microsoft Copilot Studio: Making the Right Choice

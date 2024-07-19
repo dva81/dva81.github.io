@@ -51,7 +51,7 @@ write-host "Switch"
 git switch -c $(Build.BuildId)
 ```
 
-After unpacking, we can send the file to GITHUB in a new branch. I am using predefined variables [Predefined variables - Azure Pipelines | Microsoft Learn](https://learn.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml#identity_values) because I like standard basic things.
+After unpacking, we can send the files to GITHUB in a new branch. I am using predefined variables [Predefined variables - Azure Pipelines | Microsoft Learn](https://learn.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml#identity_values) because I like standard basic things.
 ![image](https://github.com/user-attachments/assets/18453d97-84e8-4584-9471-6ad541149368)
 
 

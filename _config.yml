@@ -255,7 +255,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: # these tags will be displayed on the front page of your blog
-display_categories: ['Leadership', 'Tools', 'DevOps', 'PowerPlatform', 'AI'] # these categories will be displayed on the front page of your blog
+display_categories: ['Leadership', 'Tools', 'DevOps', 'PowerPlatform', 'AI', 'Copilot'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

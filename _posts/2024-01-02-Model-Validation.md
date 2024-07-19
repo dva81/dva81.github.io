@@ -32,7 +32,7 @@ To calculate the size of the validation set, there is no one-size-fits-all answe
 
 This online calculator helps to calculate sample sizes - [Sample Size Calculator](https://www.calculator.net/sample-size-calculator.html) - for test and validation purposes. It provides insights into how the right validation set size contributes to an effective model assessment.
 
-![online calculator](/assets/img/Model-validation/model-validation (4).png)
+![online calculator](assets/img/Model-validation/model-validation4.png)
 
 Methods of Model Validation: Cross Validation
 Cross-validation is a technique used in machine learning to evaluate the performance of a model. It involves dividing the dataset into smaller groups and then averaging the performance in each group to reduce the impact of partition randomness on the results. Nevertheless, each method has its own bias toward more positive or negative results. Here are some of the most commonly used cross-validation techniques:
@@ -53,7 +53,7 @@ An easy way to do this in Power platform is with a Power Automate flow.
 
 1. Put your validation files in one folder. (you can even create them using a generation flow)
 
-![generation flow](/assets/img/Model-validation/model-validation (3).png)
+![generation flow](/assets/img/Model-validation/model-validation3.png)
 
 2. Create a database with all the (meta)data you expect the model to find in the files.
 
@@ -63,7 +63,7 @@ An easy way to do this in Power platform is with a Power Automate flow.
 
 It can look something like this: 
 
-![flow](/assets/img/Model-validation/model-validation (2).png)
+![flow](/assets/img/Model-validation/model-validation2.png)
 
 # Key Takeaways
 Data splitting is essential for avoiding overfitting and obtaining an unbiased estimate of the model’s performance. It is a crucial step in the validation process. The choice of cross-validation technique depends on the size of the dataset, the number of features, and the computational resources available.

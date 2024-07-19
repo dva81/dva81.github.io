@@ -6,17 +6,15 @@ description: In this article I am sharing my take on deploying a Power Platform 
 categories: PowerPlatform AI DevOps
 ---
 
-# Azure DevOps : Easily deploy a Power platform solution
-
 I have been an Azure DevOps enthusiast for years. The ease of use and flexibility of the platform are super. In this article I am sharing my not-so-complex take on deploying a Power Platform Solution across environments.
 I will explain how to use a repo, build pipeline and release to different environments.
 
-## Repos
+# Repos
 There is no need to download the solution in a repo if you are not going to manipulate the source / zip file. Using the repo for the deployment settings json file is a good practice as these are configurations that are not managed in the solution. This way you can have version control over the deployment settings. The solution versions are managed in Power Platform or you can roll back from the artifact. 
 
 ![image](https://github.com/dva81/dva81.github.io/assets/65031840/9ed4499a-b617-44de-9df4-0c93aeb1bd00)
 
-## Pipelines  - build artifact
+# Pipelines  - build artifact
 I see pipelines as a means to create a deployable artifact of deployable item. So for me it can be limited to the steps to collect and package the components that need to be deployed. You can either schedule this or start this manually if you are ready to deploy.
 
 ![pipeline actions](https://github.com/dva81/dva81.github.io/assets/65031840/674d2575-bf4e-4d2b-8230-dc44428dd29c)
@@ -25,7 +23,7 @@ I see pipelines as a means to create a deployable artifact of deployable item. S
 
 This package contains everything you need to deploy to any environment. So even if you want to roll back the development environment you can do it with this package.
  
-## Pipelines  - Release 
+# Pipelines  - Release 
 The release stages are set up from the build output / artifact. Everything is in the artifact, there is no need for other sources. In this example we have three environments to deploy. This can be across tenants if needed. We use the service connections for the connections. 
 
 ![release stages](https://github.com/dva81/dva81.github.io/assets/65031840/96a44216-f9fd-4ec3-8ab2-7828c6861566)

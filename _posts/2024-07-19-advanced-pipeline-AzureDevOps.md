@@ -16,7 +16,7 @@ The thought behind this is that the highly regulated enterprises have more compl
 - Branching and merging policies.
 - Standard configurations must be added automatically after development
 
-## Setting the stage
+# Setting the stage
 We will be using the following components. 
 
 - Azure DevOps environment for the build and release pipelines
@@ -26,12 +26,12 @@ We will be using the following components.
 The example will be importing from only one environment but it can be extended if needed.
 If you are reading this article, I can safely assume you know your way around Microsoft Power Platform. However source control is not always related to low code so if you are new to GITHUB check out this Beginner's guide to GitHub repositories: [How to create your first repo - The GitHub Blog](https://github.blog/2024-06-24-beginners-guide-to-github-repositories-how-to-create-your-first-repo/)
 
-## Build 
+# Build 
 There are two pipelines. Get the Solution and Pack and drop.
 
 ![Build](https://github.com/user-attachments/assets/5dd9d6ee-4239-458a-a15f-5a0e658ed683)
 
-### Get the Solution 
+## Get the Solution 
 The goal is to export the solution from the Power Platform environment and store the configuration in GITHUB under a new branch.
 
 ![Get the Solution](https://github.com/user-attachments/assets/1ca58311-b0c7-4854-a3b3-99b42f81540f)
@@ -85,7 +85,7 @@ git -c http.extraheader="AUTHORIZATION: bearer $(System.AccessToken)" push origi
 git status
 ```
 
-### Things did not go as planned
+## Things did not go as planned
 Some things took more time than others. These types configuration of things are an intricate maze of tools, tasks and settings.
 
 **The Git push did not work**

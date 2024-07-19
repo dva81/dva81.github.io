@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Skills vs Connectors in Microsoft Copilot Studio - Making the Right Choice
+title:  A more advanced pipeline in Azure DevOps for Power Platform Solutions
 date: 2024-07-23
-description: This article provides a foundational understanding to help you navigate the choice between Skills and Connectors in Microsoft Copilot Studio. 
+description: This time I will show you two advanced pipeline to export and import a Power Platform solution with a GITHUB connection. The thought behind this is that the highly regulated enterprises have more complex working environments and deployment needs. 
 categories: PowerPlatform AI DevOps Copilot
 ---
 
 # A more advanced pipeline in Azure DevOps for Power Platform solutions.
 
 When working with many developers or designers in highly secure environment with a lot of compliance rules and regulations, Power Platform can be challenging to maintain. In this [Azure DevOps: Easily deploy a Power platform solution | LinkedIn](https://www.linkedin.com/pulse/azure-devops-easily-deploy-power-platform-solution-dennis-van-aelst-mzfpe/?trackingId=Zt9plSeCTg2OyehjOFpuog%3D%3D)  article, I gave an example on how to create a simple DevOps pipeline. 
+
 This time I will show you two advanced pipeline to export and import a Power Platform solution with a GITHUB connection.
-The thought behind this is that the highly regulated enterprises have more complex working environments and needs. 
+The thought behind this is that the highly regulated enterprises have more complex working environments and deployment needs. 
 - Many developers are working on the same solution in different development environments. 
 - Code or configuration check must be done before deploying preferably automated
 - Branching and merging policies.
@@ -80,25 +81,28 @@ git status
 ```
  
 ### Things did not go as planned
-Some things took more time than others. These types of things are an intricate maze of configurations and settings.
+Some things took more time than others. These types configuration of things are an intricate maze of tools, tasks and settings.
+
+**The Git push did not work**
 The Git push did not work and I got a message the “authentication was not done properly”. I missed a setting in the Agent Job.
 [git - Azure Pipeline, Cannot prompt because terminal prompts have been disabled - Stack Overflow](https://stackoverflow.com/questions/64803872/azure-pipeline-cannot-prompt-because-terminal-prompts-have-been-disabled)
 ![image](https://github.com/user-attachments/assets/35fb26fc-d67a-4037-aab1-64c95ce31b3f)
 
-Error Not a repo: This was because I cleaned the repo before filling it again. I solved this with the GIT rm command. Which did not destroy the cloned repo.
+**Error Not a repo**
+This was because I cleaned the repo before filling it again. I solved this with the GIT rm command. Which did not destroy the cloned repo.
 [Solved: fatal: Not a git repository (or any of the parent directories): .git (komodor.com)](https://komodor.com/blog/solving-fatal-not-a-git-repository-error/)
 
 **Unpack vs unzip does not make a difference.**
-What is strange is that the [Content_types].xml is not extracted in both cases and files in the root are placed in the folder ‘other’
+What is strange is that the [Content_types].xml is not extracted in both cases and files in the root are placed in the folder ‘other’.
+I lost some figering this out. However after packing the Solution, it does create the correct structure again… 
 ![image](https://github.com/user-attachments/assets/36170d33-3513-4a48-965a-6a25f9335d15)
 
 ![image](https://github.com/user-attachments/assets/9ff41786-dcf3-49e2-809f-e3929c48a452)
 
 ![image](https://github.com/user-attachments/assets/0f476b28-d247-44d9-babf-87d688717027)
 
-However after packing the Solution, it does create the correct structure again… 
-
-# Pack and drop branches
+# Pack and drop
+This pipeline gets the configuration items from the GITHUB repo and packs the Solution again to a managed solution. out of the box you cannot pack from unmanaged to managed and visa versa. The result is a deployable artifact that can be released to any environment. I did not show the deployment settings in the example. Check out my other article for that. You will need to incorporate all connections references and other dependancies like custom connectors. 
 
 ![image](https://github.com/user-attachments/assets/e500ec17-0284-4b47-8b32-3191725d0e80)
 
@@ -116,10 +120,9 @@ Here is an example of a multi stage environment. You can even make this dynamic 
 ![image](https://github.com/user-attachments/assets/0f0f5ffb-4e73-4699-88bd-7f27542f00d6)
 
 # A parting note
-I did not show the deployment settings in the example. Check out my other article for that. You are merging configuration not real code, the Power Platform is not really intended to use this way.  
+You are merging configuration not real code, the Power Platform is not really intended to use this way.  
 
 My focus is on structuring, automating and managing business processes using Agile and DevOps best practices. This creates working environments where business continuity, transparency and human capital come first. Reach out to me on [LinkedIn](https://www.linkedin.com/in/dennisvanaelst) or check out my [github](https://github.com/dva81) or [blog](https://www.dennisvanaelst.net/) for more tips and tricks.
-
 
 ----
 The ideas and underlying essence are original and generated by a human author. The organization, grammar, and presentation may have been enhanced by the use of AI.

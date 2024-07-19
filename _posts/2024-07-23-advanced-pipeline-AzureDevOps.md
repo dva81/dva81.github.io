@@ -82,16 +82,13 @@ git status
 ### Things did not go as planned
 Some things took more time than others. These types of things are an intricate maze of configurations and settings.
 The Git push did not work and I got a message the “authentication was not done properly”. I missed a setting in the Agent Job.
- 
-git - Azure Pipeline, Cannot prompt because terminal prompts have been disabled - Stack Overflow
-
-
- 
+[git - Azure Pipeline, Cannot prompt because terminal prompts have been disabled - Stack Overflow](https://stackoverflow.com/questions/64803872/azure-pipeline-cannot-prompt-because-terminal-prompts-have-been-disabled)
+![image](https://github.com/user-attachments/assets/35fb26fc-d67a-4037-aab1-64c95ce31b3f)
 
 Error Not a repo: This was because I cleaned the repo before filling it again. I solved this with the GIT rm command. Which did not destroy the cloned repo.
-Solved: fatal: Not a git repository (or any of the parent directories): .git (komodor.com)
+[Solved: fatal: Not a git repository (or any of the parent directories): .git (komodor.com)](https://komodor.com/blog/solving-fatal-not-a-git-repository-error/)
 
-Unpack vs unzip does not make a difference.
+**Unpack vs unzip does not make a difference.**
 What is strange is that the [Content_types].xml is not extracted in both cases and files in the root are placed in the folder ‘other’
 ![image](https://github.com/user-attachments/assets/36170d33-3513-4a48-965a-6a25f9335d15)
 

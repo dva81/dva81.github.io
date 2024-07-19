@@ -1,34 +1,47 @@
-A more advanced pipeline in Azure DevOps for Power Platform solutions.
+---
+layout: post
+title: Skills vs Connectors in Microsoft Copilot Studio - Making the Right Choice
+date: 2024-07-23
+description: This article provides a foundational understanding to help you navigate the choice between Skills and Connectors in Microsoft Copilot Studio. 
+categories: PowerPlatform AI DevOps Copilot
+---
 
-When working with many developers or designers in highly secure environment with a lot of compliance rules and regulations, Power Platform can be challenging to maintain. In this Azure DevOps: Easily deploy a Power platform solution | LinkedIn  article, I gave an example on how to create a simple DevOps pipeline. This time I will show you two advanced pipeline to export and import a Power Platform solution with a GITHUB connection.
+# A more advanced pipeline in Azure DevOps for Power Platform solutions.
+
+When working with many developers or designers in highly secure environment with a lot of compliance rules and regulations, Power Platform can be challenging to maintain. In this [Azure DevOps: Easily deploy a Power platform solution | LinkedIn]{https://www.linkedin.com/pulse/azure-devops-easily-deploy-power-platform-solution-dennis-van-aelst-mzfpe/?trackingId=Zt9plSeCTg2OyehjOFpuog%3D%3D}   article, I gave an example on how to create a simple DevOps pipeline. 
+This time I will show you two advanced pipeline to export and import a Power Platform solution with a GITHUB connection.
 The thought behind this is that the highly regulated enterprises have more complex working environments and needs. 
-•	Many developers are working on the same solution in different development environments. 
-•	Code or configuration check must be done before deploying preferably automated
-•	Branching and merging policies.
-•	Standard configurations must be added automatically after development
-Setting the stage
+- Many developers are working on the same solution in different development environments. 
+- Code or configuration check must be done before deploying preferably automated
+- Branching and merging policies.
+- Standard configurations must be added automatically after development
+
+## Setting the stage
 We will be using the following components. 
-•	Azure DevOps environment for the build and release pipelines
-•	GITHUB repository for storing the configuration and merging the different brances
-•	Power Platform environment with a solution to export 
+- Azure DevOps environment for the build and release pipelines
+- GITHUB repository for storing the configuration and merging the different brances
+- Power Platform environment with a solution to export 
+
 The example will be importing from only one environment but it can be extended if needed.
 If you are reading this article, I can safely assume you know your way around Microsoft Power Platform. However source control is not always related to low code so if you are new to GITHUB check out this Beginner's guide to GitHub repositories: How to create your first repo - The GitHub Blog
 
-# Build 
+## Build 
 There are two pipelines. Get the Solution and Pack and drop branches
- 
+![image](https://github.com/user-attachments/assets/5dd9d6ee-4239-458a-a15f-5a0e658ed683)
 
-# Get the Solution 
+### Get the Solution 
 The goal is to export the solution from the Power Platform environment and store the configuration in GITHUB under a new branch.
- 
+ ![image](https://github.com/user-attachments/assets/1ca58311-b0c7-4854-a3b3-99b42f81540f)
+
 The first three jobs are simple but before those start the Checkout – job creates / clones the Github repo on the agent. This way we can use that location to clean the repository before unpacking the solution in that location.
- 
+![image](https://github.com/user-attachments/assets/48762fd5-985f-4876-a374-871ae7cd5893)
+
 In the Clean repo step, The GIT rm command is used to remove the old configuration making it ready to accept the new incoming.
- 
+ ![image](https://github.com/user-attachments/assets/801024a4-f39b-4178-bbdc-bca224ed6750)
 
 After unpacking, we can send the file to GITHUB in a new branch. I am using predefined variables Predefined variables - Azure Pipelines | Microsoft Learn because I like standard basic things.
  
-Things did not go as planned
+### Things did not go as planned
 Some things took more time than others. These types of things are an intricate maze of configurations and settings.
 The Git push did not work and I got a message the “authentication was not done properly”. I missed a setting in the Agent Job.
  

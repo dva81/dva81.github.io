@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A more advanced pipeline in Azure DevOps for Power Platform Solutions
-date: 2024-07-23
+date: 2024-07-19
 description: This time I will show you two advanced pipeline to export and import a Power Platform solution with a GITHUB connection. The thought behind this is that the highly regulated enterprises have more complex working environments and deployment needs. 
 categories: PowerPlatform AI DevOps Copilot
 ---

@@ -8,7 +8,7 @@ categories: PowerPlatform AI DevOps Copilot
 
 In the evolving landscape of automation and AI integration, Microsoft Copilot Studio offers two primary methods for enhancing functionality: Skills and Connectors. Understanding the differences, strengths, and best use cases for each can help organizations make informed decisions. This post explores the key aspects of Skills and Connectors, and provides guidance on selecting the right approach for your projects.
 
-## Understanding Connectors
+# Understanding Connectors
 
 Connectors in the Power Platform provide a low-code solution to integrate various services and applications. This approach is particularly useful for users who want to extend API calls without delving into extensive coding. Here are some key points about Connectors:
 
@@ -17,7 +17,7 @@ Connectors in the Power Platform provide a low-code solution to integrate variou
 - **DLP Policy Impact**: Data Loss Prevention policies apply, with standard limitations allowing 500 calls per minute per connector. These limits are adjustable based on the environment.
 - **Authentication**: Proper authentication needs to be verified to ensure secure connections.
 
-## Exploring Skills
+# Exploring Skills
 
 Skills offer a more flexible, pro-code approach, requiring Azure infrastructure. This method is ideal for users with coding expertise who need to implement complex customizations. Key features of Skills include:
 
@@ -25,15 +25,15 @@ Skills offer a more flexible, pro-code approach, requiring Azure infrastructure.
 - **Azure Infrastructure**: Requires setup and management of Azure resources.
 - **Extended Capabilities**: Skills can extend further than connectors, especially when paired with Copilot extensions.
 
-## User Experience in Copilot
+# User Experience in Copilot
 
 Regardless of whether you choose Skills or Connectors, the user experience within Copilot remains largely consistent. Both methods aim to streamline the integration process and enhance functionality.
 
-## Making the Decision
+# Making the Decision
 
 For Proof of Concept (POC) use cases, the primary strategy is to use custom connectors. This approach allows for quick integration and testing without extensive coding. However, it's crucial to continuously evaluate the technical and functional requirements of your project. If the need for more advanced customization arises, considering Skills might be necessary.
 
-## Action Plan
+# Action Plan
 
 To effectively implement Connectors or Skills, consider the following steps:
 

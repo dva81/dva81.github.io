@@ -38,8 +38,46 @@ The first three jobs are simple but before those start the Checkout – job crea
 
 In the Clean repo step, The GIT rm command is used to remove the old configuration making it ready to accept the new incoming.
  ![image](https://github.com/user-attachments/assets/801024a4-f39b-4178-bbdc-bca224ed6750)
+```
+write-host "Set location"
+Set-Location -Path $(Build.Repository.LocalPath)
 
-After unpacking, we can send the file to GITHUB in a new branch. I am using predefined variables Predefined variables - Azure Pipelines | Microsoft Learn because I like standard basic things.
+write-host "Start GIT Stuff"
+git config user.email "$(Build.RequestedForEmail)"
+git config user.name $(Build.RequestedForId)
+
+write-host "Switch"
+git switch -c $(Build.BuildId)
+```
+
+After unpacking, we can send the file to GITHUB in a new branch. I am using predefined variables [Predefined variables - Azure Pipelines | Microsoft Learn](https://learn.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml#identity_values) because I like standard basic things.
+![image](https://github.com/user-attachments/assets/18453d97-84e8-4584-9471-6ad541149368)
+
+
+```
+write-host "Set location"
+Set-Location -Path $(Build.Repository.LocalPath)
+
+write-host "Start GIT Stuff"
+git config user.email "$(Build.RequestedForEmail)"
+git config user.name $(Build.RequestedForId)
+
+write-host "Switch"
+git switch -c $(Build.BuildId)
+# git checkout -b $(Build.BuildId)
+
+write-host "Adding"
+git status
+git add *
+
+write-host "Commit"
+git commit -m "$(Build.SourceVersionMessage)"
+git status
+
+write-host "Push code to new repo"
+git -c http.extraheader="AUTHORIZATION: bearer $(System.AccessToken)" push origin $(Build.BuildId)
+git status
+```
  
 ### Things did not go as planned
 Some things took more time than others. These types of things are an intricate maze of configurations and settings.

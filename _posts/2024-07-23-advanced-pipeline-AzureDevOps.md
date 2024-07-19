@@ -8,7 +8,7 @@ categories: PowerPlatform AI DevOps Copilot
 
 # A more advanced pipeline in Azure DevOps for Power Platform solutions.
 
-When working with many developers or designers in highly secure environment with a lot of compliance rules and regulations, Power Platform can be challenging to maintain. In this [Azure DevOps: Easily deploy a Power platform solution | LinkedIn]{https://www.linkedin.com/pulse/azure-devops-easily-deploy-power-platform-solution-dennis-van-aelst-mzfpe/?trackingId=Zt9plSeCTg2OyehjOFpuog%3D%3D}   article, I gave an example on how to create a simple DevOps pipeline. 
+When working with many developers or designers in highly secure environment with a lot of compliance rules and regulations, Power Platform can be challenging to maintain. In this [Azure DevOps: Easily deploy a Power platform solution | LinkedIn](https://www.linkedin.com/pulse/azure-devops-easily-deploy-power-platform-solution-dennis-van-aelst-mzfpe/?trackingId=Zt9plSeCTg2OyehjOFpuog%3D%3D)  article, I gave an example on how to create a simple DevOps pipeline. 
 This time I will show you two advanced pipeline to export and import a Power Platform solution with a GITHUB connection.
 The thought behind this is that the highly regulated enterprises have more complex working environments and needs. 
 - Many developers are working on the same solution in different development environments. 
@@ -23,7 +23,7 @@ We will be using the following components.
 - Power Platform environment with a solution to export 
 
 The example will be importing from only one environment but it can be extended if needed.
-If you are reading this article, I can safely assume you know your way around Microsoft Power Platform. However source control is not always related to low code so if you are new to GITHUB check out this Beginner's guide to GitHub repositories: How to create your first repo - The GitHub Blog
+If you are reading this article, I can safely assume you know your way around Microsoft Power Platform. However source control is not always related to low code so if you are new to GITHUB check out this Beginner's guide to GitHub repositories: [How to create your first repo - The GitHub Blog]
 
 ## Build 
 There are two pipelines. Get the Solution and Pack and drop branches
@@ -55,34 +55,36 @@ Solved: fatal: Not a git repository (or any of the parent directories): .git (ko
 
 Unpack vs unzip does not make a difference.
 What is strange is that the [Content_types].xml is not extracted in both cases and files in the root are placed in the folder ‘other’
+![image](https://github.com/user-attachments/assets/36170d33-3513-4a48-965a-6a25f9335d15)
 
- 
- 
- 
- 
- 
- 
- 
+![image](https://github.com/user-attachments/assets/9ff41786-dcf3-49e2-809f-e3929c48a452)
 
-After packing it creates the correct structure again… 
+![image](https://github.com/user-attachments/assets/0f476b28-d247-44d9-babf-87d688717027)
+
+However after packing the Solution, it does create the correct structure again… 
 
 # Pack and drop branches
 
- 
+![image](https://github.com/user-attachments/assets/e500ec17-0284-4b47-8b32-3191725d0e80)
+
 # Release pipelines
-The  release pipelines is easy. We are working with managed solutions. Unmanaged is not advised!
+The release pipeline is easy. We are working with managed solutions. Unmanaged is not advised!
 Microsoft considers these as still under development, and you can import or export as unmanaged. You can modify unmanaged solutions.
 Managed solutions are complete solutions ready for distribution that you cannot modify after importing them to the selected environment. These solutions are intended for production environments. 
-More info on: Solution layers - Power Apps | Microsoft Learn
+More info on: [Solution layers - Power Apps | Microsoft Learn](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/solution-layers)
+![image](https://github.com/user-attachments/assets/2b2f9846-aa55-40f3-9ad2-734128707a09)
 
- 
 By using the managed solution all your environments stay nice and clean. 
+
 Here is an example of a multi stage environment. You can even make this dynamic if you incorporate pipelines and scripts for environment provisioning and use the API for Azure DevOps to automatically create pipelines and release configurations.
- 
+
+![image](https://github.com/user-attachments/assets/0f0f5ffb-4e73-4699-88bd-7f27542f00d6)
 
 # A parting note
 I did not show the deployment settings in the example. Check out my other article for that. You are merging configuration not real code, the Power Platform is not really intended to use this way.  
 
-My focus is on structuring, automating and managing business processes using Agile and DevOps best practices. This creates working environments where business continuity, transparency and human capital come first. Reach out to me on LinkedIn or check out my github or blog for more tips and tricks.
+My focus is on structuring, automating and managing business processes using Agile and DevOps best practices. This creates working environments where business continuity, transparency and human capital come first. Reach out to me on [LinkedIn](https://www.linkedin.com/in/dennisvanaelst) or check out my [github](https://github.com/dva81) or [blog](https://www.dennisvanaelst.net/) for more tips and tricks.
+
+
 ----
 The ideas and underlying essence are original and generated by a human author. The organization, grammar, and presentation may have been enhanced by the use of AI.

@@ -29,12 +29,14 @@ The example will be importing from only one environment but it can be extended i
 If you are reading this article, I can safely assume you know your way around Microsoft Power Platform. However source control is not always related to low code so if you are new to GITHUB check out this Beginner's guide to GitHub repositories: [How to create your first repo - The GitHub Blog](https://github.blog/2024-06-24-beginners-guide-to-github-repositories-how-to-create-your-first-repo/)
 
 ## Build 
-There are two pipelines. Get the Solution and Pack and drop branches
+There are two pipelines. Get the Solution and Pack and drop.
+
 ![Build](https://github.com/user-attachments/assets/5dd9d6ee-4239-458a-a15f-5a0e658ed683)
 
 ### Get the Solution 
 The goal is to export the solution from the Power Platform environment and store the configuration in GITHUB under a new branch.
- ![Get the Solution](https://github.com/user-attachments/assets/1ca58311-b0c7-4854-a3b3-99b42f81540f)
+
+![Get the Solution](https://github.com/user-attachments/assets/1ca58311-b0c7-4854-a3b3-99b42f81540f)
 
 The first three jobs are simple but before those start the Checkout – job creates / clones the Github repo on the agent. This way we can use that location to clean the repository before unpacking the solution in that location.
 
@@ -91,6 +93,7 @@ Some things took more time than others. These types configuration of things are 
 **The Git push did not work**
 The Git push did not work and I got a message the “authentication was not done properly”. I missed a setting in the Agent Job.
 [git - Azure Pipeline, Cannot prompt because terminal prompts have been disabled - Stack Overflow](https://stackoverflow.com/questions/64803872/azure-pipeline-cannot-prompt-because-terminal-prompts-have-been-disabled)
+
 ![push](https://github.com/user-attachments/assets/35fb26fc-d67a-4037-aab1-64c95ce31b3f)
 
 **Error Not a repo**
@@ -100,6 +103,7 @@ This was because I cleaned the repo before filling it again. I solved this with 
 **Unpack vs unzip does not make a difference.**
 What is strange is that the [Content_types].xml is not extracted in both cases and files in the root are placed in the folder ‘other’.
 I lost some figering this out. However after packing the Solution, it does create the correct structure again… 
+
 ![Unpack](https://github.com/user-attachments/assets/36170d33-3513-4a48-965a-6a25f9335d15)
 
 ![Unpack](https://github.com/user-attachments/assets/9ff41786-dcf3-49e2-809f-e3929c48a452)

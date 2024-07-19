@@ -120,7 +120,7 @@ Here is an example of a multi stage environment. You can even make this dynamic 
 ![image](https://github.com/user-attachments/assets/0f0f5ffb-4e73-4699-88bd-7f27542f00d6)
 
 # A parting note
-You are merging configuration not real code, the Power Platform is not really intended to use this way. So be carefull!
+You are merging configurations, not real code. The syntax may be ok but that does not mean it will work! The Power Platform is not really intended to use this way. So be carefull!
 
 
 My focus is on structuring, automating and managing business processes using Agile and DevOps best practices. This creates working environments where business continuity, transparency and human capital come first. Reach out to me on [LinkedIn](https://www.linkedin.com/in/dennisvanaelst) or check out my [github](https://github.com/dva81) or [blog](https://www.dennisvanaelst.net/) for more tips and tricks.

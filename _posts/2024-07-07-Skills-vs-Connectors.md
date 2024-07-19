@@ -6,8 +6,6 @@ description: This article provides a foundational understanding to help you navi
 categories: PowerPlatform AI DevOps Copilot
 ---
 
-# Skills vs Connectors in Microsoft Copilot Studio: Making the Right Choice
-
 In the evolving landscape of automation and AI integration, Microsoft Copilot Studio offers two primary methods for enhancing functionality: Skills and Connectors. Understanding the differences, strengths, and best use cases for each can help organizations make informed decisions. This post explores the key aspects of Skills and Connectors, and provides guidance on selecting the right approach for your projects.
 
 ## Understanding Connectors

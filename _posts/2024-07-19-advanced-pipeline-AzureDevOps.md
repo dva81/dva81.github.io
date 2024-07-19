@@ -8,7 +8,7 @@ categories: PowerPlatform AI DevOps Copilot
 
 When working with many developers or designers in highly secure environment with a lot of compliance rules and regulations, Power Platform can be challenging to maintain. In this [Azure DevOps: Easily deploy a Power platform solution - LinkedIn](https://www.linkedin.com/pulse/azure-devops-easily-deploy-power-platform-solution-dennis-van-aelst-mzfpe/?trackingId=Zt9plSeCTg2OyehjOFpuog%3D%3D)  article, I gave an example on how to create a simple DevOps pipeline. 
 
-This time I will show you two advanced pipeline to export and import a Power Platform solution with a GITHUB connection.
+This time I will show you two advanced pipelines to export and import a Power Platform solution with a GITHUB connection.
 The thought behind this is that the highly regulated enterprises have more complex working environments and deployment needs. 
 
 - Many developers are working on the same solution in different development environments. 
@@ -36,7 +36,7 @@ The goal is to export the solution from the Power Platform environment and store
 
 ![Get the Solution](https://github.com/user-attachments/assets/1ca58311-b0c7-4854-a3b3-99b42f81540f)
 
-The first three jobs are simple but before those start the Checkout – job creates / clones the Github repo on the agent. This way we can use that location to clean the repository before unpacking the solution in that location.
+The first three jobs are simple.Before they start, the Checkout – job creates / clones the Github repo on the agents file system. This way we can use that location to clean the repository before unpacking the solution in that location.
 
 ![Checkout](https://github.com/user-attachments/assets/48762fd5-985f-4876-a374-871ae7cd5893)
 
@@ -56,7 +56,7 @@ write-host "Switch"
 git switch -c $(Build.BuildId)
 ```
 
-After unpacking, we can send the files to GITHUB in a new branch. I am using predefined variables [Predefined variables - Azure Pipelines | Microsoft Learn](https://learn.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml#identity_values) because I like standard basic things.
+After unpacking, we can send the files to GITHUB in a new branch. I am using predefined variables [Predefined variables - Azure Pipelines Microsoft Learn](https://learn.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml#identity_values) because I like standard basic things.
 
 ![unpacking](https://github.com/user-attachments/assets/18453d97-84e8-4584-9471-6ad541149368)
 
@@ -89,16 +89,19 @@ git status
 Some things took more time than others. These types configuration of things are an intricate maze of tools, tasks and settings.
 
 **The Git push did not work**
+
 The Git push did not work and I got a message the “authentication was not done properly”. I missed a setting in the Agent Job.
 [git - Azure Pipeline, Cannot prompt because terminal prompts have been disabled - Stack Overflow](https://stackoverflow.com/questions/64803872/azure-pipeline-cannot-prompt-because-terminal-prompts-have-been-disabled)
 
 ![push](https://github.com/user-attachments/assets/35fb26fc-d67a-4037-aab1-64c95ce31b3f)
 
 **Error Not a repo**
+
 This was because I cleaned the repo before filling it again. I solved this with the GIT rm command. Which did not destroy the cloned repo.
 [Solved: fatal: Not a git repository (or any of the parent directories): .git (komodor.com)](https://komodor.com/blog/solving-fatal-not-a-git-repository-error/)
 
 **Unpack vs unzip does not make a difference.**
+
 What is strange is that the [Content_types].xml is not extracted in both cases and files in the root are placed in the folder ‘other’.
 I lost some figering this out. However after packing the Solution, it does create the correct structure again… 
 

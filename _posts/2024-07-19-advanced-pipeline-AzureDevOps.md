@@ -32,11 +32,11 @@ There are two pipelines. Get the Solution and Pack and drop.
 ![Build](https://github.com/user-attachments/assets/5dd9d6ee-4239-458a-a15f-5a0e658ed683)
 
 ## Get the Solution 
-The goal is to export the solution from the Power Platform environment and store the configuration in GITHUB under a new branch.
+The goal is to export the solution from the Power Platform environment and store the configuration in GITHUB under a new branch. This way all the components are available in source control and can be handled in code as well. This makes batch updates and check easier. 
 
 ![Get the Solution](https://github.com/user-attachments/assets/1ca58311-b0c7-4854-a3b3-99b42f81540f)
 
-The first three jobs are simple.Before they start, the Checkout – job creates / clones the Github repo on the agents file system. This way we can use that location to clean the repository before unpacking the solution in that location.
+The first three tasks are simple. Before they start, the Checkout – job creates / clones the Github repo on the agents file system. This way we can use that location to clean the repository before unpacking the solution in that location.
 
 ![Checkout](https://github.com/user-attachments/assets/48762fd5-985f-4876-a374-871ae7cd5893)
 

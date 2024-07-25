@@ -32,7 +32,7 @@ There are two pipelines. Get the Solution and Pack and drop.
 ![Build](https://github.com/user-attachments/assets/5dd9d6ee-4239-458a-a15f-5a0e658ed683)
 
 ## Get the Solution 
-The goal is to export the solution from the Power Platform environment and store the configuration in GITHUB under a new branch. This way all the components are available in source control and can be handled in code as well. This makes batch updates and check easier. 
+The goal is to export the solution from the Power Platform environment and store the configuration in GITHUB under a new branch. This way all the components are available in source control and can be handled in code as well. This makes batch updates and checks easier, creating a new version ready to be released via the pack and drop pipeline.
 
 ![Get the Solution](https://github.com/user-attachments/assets/1ca58311-b0c7-4854-a3b3-99b42f81540f)
 

@@ -10,9 +10,8 @@ I had a meeting and one of the topics was “the bench”. I had some thoughts o
 
 I also wanted to see how fast I could make a minimal viable paper 😉 with the help of generative AI and gave myself 30 minutes.
 # Let’s get started
-I wrote some key thoughts and gave them to ChatGPT
+I wrote some key thoughts and gave them to ChatGPT https://openai.com/chatgpt/overview/
 
-<https://chatgpt.com/share/dd367d46-b95b-4c82-a314-11e142f80e67> 
 ## First the initiatives
 - The bench is not a punishment but an opportunity to grow, expand and train! 
 - Content creation 
@@ -29,8 +28,10 @@ I wrote some key thoughts and gave them to ChatGPT
 ## The result 
 The draft document of this 30 minutes experiment is next. 
 
-> Happy reading.
+> 
+> Not so bad at all.... Happy reading.
 >
+
 # The Bench as an opportunity for growth
 The concept of “the bench” is often seen in a negative light. However, in our organization, the bench is not a punishment but a valuable opportunity for our teams to grow, expand their skillsets, and train for the future. I would like to highlight several initiatives that can help us leverage this time productively, aligning with our long-term strategic goals.
 

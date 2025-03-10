@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  From Chatbots to Collaboration: Rethinking AI Agents for Better Workflow Management
-date: 25-03-10
+title:  From Chatbots to Collaboration - Rethinking AI Agents for Better Workflow Management
+date: 2025-03-10
 description: In our IT landscape, the clarity between different architecture roles is crucial
 ---
 

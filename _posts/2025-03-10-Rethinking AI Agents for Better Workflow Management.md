@@ -2,12 +2,12 @@
 layout: post
 title:  From Chatbots to Collaboration - Rethinking AI Agents for Better Workflow Management
 date: 2025-03-10
-description: In our IT landscape, the clarity between different architecture roles is crucial
+description: I’ve spent significant time working with Copilot Studio. Lately, the term “agents” seems to dominate conversations around business process efficiencies. While the buzz is undeniable, I often find myself questioning whether agents and chatbots are truly the most efficient solutions for addressing workflow challenges.
 ---
 
 As someone deeply immersed in the world of AI and productivity tools, I’ve spent significant time working with Copilot Studio. Lately, the term “agents” seems to dominate conversations around business process efficiencies. While the buzz is undeniable, I often find myself questioning whether agents and chatbots are truly the most efficient solutions for addressing workflow challenges. Allow me to unpack this.
 
-In our team, we recently embarked on creating an agent designed to integrate seamlessly into a Microsoft Teams channel. Its primary function is straightforward: it prompts everyone in the channel to answer a specific question, redirecting their collective input to a customer. At first glance, this might seem like an efficient approach to managing inquiries, but there’s an underlying question that needs addressing—who takes ownership of the query?
+In our team, we recently embarked on creating an agent designed to integrate seamlessly into a Microsoft Teams channel. Its primary function is straightforward: it prompts everyone in the channel to answer a questions it receives from another bot, redirecting their collective input to a customer. At first glance, this might seem like an efficient approach to managing inquiries, but there’s an underlying question that needs addressing. Who takes ownership of this query?
 
 The introduction of agents into workflows brings with it the promise of automation and streamlining. However, it can also risk introducing ambiguity, especially when it comes to accountability. In traditional settings, responsibility often falls upon individuals or dedicated roles. With agents, the lines can blur. Is the agent itself accountable? Or do we rely on human oversight to ensure the job gets done?
 

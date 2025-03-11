@@ -7,15 +7,17 @@ description: I’ve spent significant time working with Copilot Studio. Lately, 
 
 # Agents are everywhere
 
-As someone deeply immersed in the world of AI and productivity tools, I’ve spent significant time working with Copilot Studio. Lately, the term “agents” seems to dominate conversations around business process efficiencies. While the buzz is undeniable, I often find myself questioning whether agents and chatbots are truly the most efficient solutions for addressing workflow challenges. Allow me to unpack this.
+As someone deeply immersed in the world of AI and productivity tools, I’ve spent significant time working with Copilot Studio. Lately, the term “agents” seems to dominate conversations around business process efficiencies. While the buzz is undeniable, I often find myself questioning whether agents and chatbots are truly the most efficient solutions for addressing workflow challenges. 
 
 # A means to an end 
 
-In our team, we recently embarked on creating an agent designed to integrate seamlessly into a Microsoft Teams channel. Its primary function is straightforward: it prompts everyone in the channel to answer a questions it receives from another bot, redirecting their collective input to a customer. At first glance, this might seem like an efficient approach to managing inquiries, but there’s an underlying question that needs addressing.
+In our team, we recently embarked on creating an agent designed to integrate seamlessly into a Microsoft Teams channel. Its primary function is straightforward: it prompts everyone in the channel to answer a questions it receives from another bot, redirecting their collective input as an answer to a customer. At first glance, this might seem like an efficient approach to managing inquiries, but there’s an underlying question that needs addressing.
 
-> Who takes ownership of this query?
+> "Who takes ownership of this query?" 
 
 The introduction of agents into workflows brings with it the promise of automation and streamlining. However, it can also risk introducing ambiguity, especially when it comes to accountability. In traditional settings, responsibility often falls upon individuals or dedicated roles. With agents, the lines can blur. Is the agent itself accountable? Or do we rely on human oversight to ensure the job gets done?
+
+> "Like a Parent WhatsApp Group: AI Agents Keep the Conversation Going, but Someone’s Gotta Wrap It Up."
 
 In our case, while the agent serves as the conduit for gathering input, we’ve established clear protocols for assigning responsibility. The agent’s role is to ask, document, and redirect—human ownership, however, remains integral to ensuring quality and resolution. It’s this delicate interplay between human effort and AI augmentation that underscores the need for thoughtful implementation.
 

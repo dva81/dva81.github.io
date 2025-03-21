@@ -29,7 +29,7 @@ To improve future AI deployments, we need to rethink our approach:
 
 - **More realistic queries:** Business users must provide better-structured questions to test the AI’s interpretation skills.
 - **Improved data quality:** Using platforms like SharePoint to enhance metadata tagging can refine search accuracy.
-- **Reducing ambiguity:** Clearer, more distinct responses will help the AI deliver precise answers rather than conflicting outputs. go in interaction with the data owners to modify the data where possible, under their control.
+- **Reducing ambiguity:** Clearer, more distinct responses will help the AI deliver precise answers rather than conflicting outputs. Go in interaction with the data owners to modify the data where possible, under their control.
 
 ## Real-World Implications
 

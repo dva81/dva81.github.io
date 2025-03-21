@@ -5,7 +5,7 @@ date: 2025-03-26
 description: The promise of AI-driven copilots is compelling. streamlined information retrieval, automated workflows, and enhanced efficiency. But as my recent test of Microsoft Copilot Studio for a banking use case demonstrated, the effectiveness of AI is only as good as the data it relies on.
 ---
 
-# Testing Copilot Studio: AI Is Only as Smart as Your Data**
+# Testing Copilot Studio: AI Is Only as Smart as Your Data
 
 The promise of AI-driven copilots is compelling: streamlined information retrieval, automated workflows, and enhanced efficiency. But as my recent test of Microsoft Copilot Studio for a banking use case demonstrated, the effectiveness of AI is only as good as the data it relies on.
 

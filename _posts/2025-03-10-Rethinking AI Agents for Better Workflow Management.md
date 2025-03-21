@@ -3,6 +3,7 @@ layout: post
 title:  From Chatbots to Collaboration - Rethinking AI Agents for Better Workflow Management
 date: 2025-03-10
 description: I’ve spent significant time working with Copilot Studio. Lately, the term “agents” seems to dominate conversations around business process efficiencies. While the buzz is undeniable, I often find myself questioning whether agents and chatbots are truly the most efficient solutions for addressing workflow challenges.
+categories: PowerPlatform AI DevOps Copilot
 ---
 
 ![AI agents in a business setting](https://github.com/user-attachments/assets/06ef304c-83dd-41e3-abd3-a6654cab4e06)

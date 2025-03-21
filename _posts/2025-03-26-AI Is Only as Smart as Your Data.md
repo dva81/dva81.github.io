@@ -19,7 +19,7 @@ Here’s what we discovered:
 - The search function relied on exact matching rather than semantic variations of questions.
 - There was no way to test alternative phrasing or conversational queries.
 - Overlapping and inconsistent answers in the dataset made it difficult for the AI to return a definitive response.
-- The system did not allow for AI-generated responses—only pre-existing text could be retrieved.
+- The business requirements did not allow for AI-generated responses. Only pre-existing text could be retrieved.
 - Data integrity was maintained, as business stakeholders controlled ownership, but this also meant we couldn’t manipulate data to test ideal scenarios.
 
 ## Key Takeaways: Fixing the Foundation

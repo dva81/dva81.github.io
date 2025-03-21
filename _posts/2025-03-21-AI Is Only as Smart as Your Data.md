@@ -17,7 +17,7 @@ Our goal was to evaluate how well the Copilot could retrieve precise answers fro
 Here’s what we discovered:
 
 - The database consisted of .docx documents structured around email-style Q&A exchanges.
-- The search function relied on exact matching rather than semantic variations of questions.
+- The search function relied on exact matching of specific content rather than semantic variations of questions.
 - There was no way to test alternative phrasing or conversational queries.
 - Overlapping and inconsistent answers in the dataset made it difficult for the AI to return a definitive response.
 - The business requirements did not allow for AI-generated responses. Only pre-existing text could be retrieved.
@@ -29,7 +29,7 @@ To improve future AI deployments, we need to rethink our approach:
 
 - **More realistic queries:** Business users must provide better-structured questions to test the AI’s interpretation skills.
 - **Improved data quality:** Using platforms like SharePoint to enhance metadata tagging can refine search accuracy.
-- **Reducing ambiguity:** Clearer, more distinct responses will help the AI deliver precise answers rather than conflicting outputs.
+- **Reducing ambiguity:** Clearer, more distinct responses will help the AI deliver precise answers rather than conflicting outputs. go in interaction with the data owners to modify the data where possible, under their control.
 
 ## Real-World Implications
 

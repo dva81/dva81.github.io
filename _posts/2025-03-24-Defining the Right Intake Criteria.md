@@ -20,7 +20,7 @@ Finally, **testing and iteration** refine the copilot before deployment. In AI-d
 
 A copilot agent is only as good as its **foundations**. Defining clear intake criteria, understanding real-world application needs, and ensuring technical and security readiness—these are the pillars of a successful AI assistant.
 
-Here you can find a brief checklist with my most important topics. [Checklist- Intake criteria for a Copilot Agent](https://github.com/dva81/dva81.github.io/assets/pdf/Checklist- Intake criteria for a Copilot Agent.pdf)
+Here you can find a brief checklist with my most important topics. [Checklist-Intake criteria for a Copilot Agent](https://github.com/dva81/dva81.github.io/assets/pdf/Checklist-Intake_criteria_copilot_Agent.pdf)
 
 ----
 My focus is on structuring, automating and managing business processes using Agile and DevOps best practices. This creates working environments where business continuity, transparency and human capital come first. Reach out to me on [LinkedIn](https://www.linkedin.com/in/dennisvanaelst) or check out my [github](https://github.com/dva81) or [blog](https://www.dennisvanaelst.net/) for more tips and tricks.

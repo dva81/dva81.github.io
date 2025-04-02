@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "From Concept to Copilot: Defining the Right Intake Criteria  "
-date: 2025-03-24
+date: 2025-04-15
 description: AI copilots are reshaping how we interact with digital systems, but their success is not accidental—it starts with well-defined intake criteria. Without a structured approach to defining the agent’s functional and technical scope, we risk building copilots that lack usability, accuracy, or security. 
 categories: PowerPlatform AI DevOps Copilot
 ---

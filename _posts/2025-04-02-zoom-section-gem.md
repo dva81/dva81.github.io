@@ -12,10 +12,14 @@ Check out this article for a complete walkthrough [art of presentation](https://
 
 With Section Zoom, I can design an agenda that goes beyond a simple list of topics. It offers an interactive and dynamic experience, letting viewers navigate through sections with a single click. No more flipping through slides linearly or getting lost in the clutter. The clean design, seamless functionality, and easy-to-use interface make it a perfect match for anyone who values out-of-the-box solutions.
 
-Create sections for every chapter or agenda item 
-add section zoom to the agenda page
+- Create sections for every chapter or agenda item
+  
+  ![image](https://github.com/user-attachments/assets/06b61d49-9229-43de-b45a-e295ff148606)
 
-![image](https://github.com/user-attachments/assets/3ab0d1f1-9a5e-46ca-aea9-709600576553)
+- Add section zoom to the agenda page
+  
+  ![image](https://github.com/user-attachments/assets/0b3b4759-ecc1-4510-ac1b-3341bbd97b15)
+
 
 For me, the beauty of Section Zoom lies in its versatility. Whether I'm working on a project, presenting an idea, or collaborating with colleagues, Section Zoom allows me to reuse and transfer layouts effortlessly. The ability to repurpose content saves time and ensures consistency across presentations. It’s fast, intuitive, and it works remarkably well—qualities that are always at the top of my priority list.
 

@@ -2,17 +2,17 @@
 layout: post
 title:  "Testing Copilot Studio: AI Is Only as Smart as Your Data"
 date: 2025-03-21
-description: The promise of AI-driven copilots is compelling. streamlined information retrieval, automated workflows, and enhanced efficiency. But as my recent test of Microsoft Copilot Studio for a banking use case demonstrated, the effectiveness of AI is only as good as the data it relies on.
+description: The promise of AI-driven copilots is compelling. streamlined information retrieval, automated workflows, and enhanced efficiency. But as my recent test of Microsoft Copilot Studio demonstrated, the effectiveness of AI is only as good as the data it relies on.
 categories: PowerPlatform AI DevOps Copilot
 ---
 
 # Testing Copilot Studio: AI Is Only as Smart as Your Data
 
-The promise of AI-driven copilots is compelling: streamlined information retrieval, automated workflows, and enhanced efficiency. But as my recent test of Microsoft Copilot Studio for a banking use case demonstrated, the effectiveness of AI is only as good as the data it relies on.
+The promise of AI-driven copilots is compelling: streamlined information retrieval, automated workflows, and enhanced efficiency. But as my recent test of Microsoft Copilot Studio demonstrated, the effectiveness of AI is only as good as the data it relies on.
 
 ## The Challenge: Finding the Right Answers
 
-Our goal was to evaluate how well the Copilot could retrieve precise answers from the bank’s database. The results were mixed. The AI struggled to provide exact matches, primarily due to limitations in data quality and structure.
+Our goal was to evaluate how well the Copilot could retrieve precise answers from the database. The results were mixed. The AI struggled to provide exact matches, primarily due to limitations in data quality and structure.
 
 Here’s what we discovered:
 
@@ -33,11 +33,11 @@ To improve future AI deployments, we need to rethink our approach:
 
 ## Real-World Implications
 
-This isn’t just a technical issue—it’s an operational one. In industries like banking, compliance and accuracy are non-negotiable. AI can’t provide trustworthy automation if it’s built on inconsistent, unstructured data. Our test reinforced a fundamental truth: even the most advanced AI can’t compensate for poor data quality. If the input is flawed, the output will be unreliable.
+This isn’t just a technical issue—it’s an operational one. In industries where compliance and accuracy are non-negotiable. AI can’t provide trustworthy automation if it’s built on inconsistent, unstructured data. Our test reinforced a fundamental truth: even the most advanced AI can’t compensate for poor data quality. If the input is flawed, the output will be unreliable.
 
 ## Looking Forward
 
-While our test exposed limitations, it also revealed opportunities. With better data structuring, metadata tagging, and an improved approach to question formulation, AI copilots can be a powerful tool in banking and beyond. But first, we must solve the age-old problem of garbage in, garbage out.
+While our test exposed limitations, it also revealed opportunities. With better data structuring, metadata tagging, and an improved approach to question formulation, AI copilots can be a powerful tool. But first, we must solve the age-old problem of garbage in, garbage out.
 
 ----
 My focus is on structuring, automating and managing business processes using Agile and DevOps best practices. This creates working environments where business continuity, transparency and human capital come first. Reach out to me on [LinkedIn](https://www.linkedin.com/in/dennisvanaelst) or check out my [github](https://github.com/dva81) or [blog](https://www.dennisvanaelst.net/) for more tips and tricks.

@@ -3,6 +3,7 @@ layout: post
 title:  Understanding Architecture Roles in IT Organizations
 date: 2024-12-15
 description: In our IT landscape, the clarity between different architecture roles is crucial
+categories: Agile Leadership 
 ---
 
 💡 Understanding Architecture Roles in IT Organizations 💡 

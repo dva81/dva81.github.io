@@ -3,6 +3,7 @@ layout: post
 title:  AI as a means to work faster
 date: 2024-09-20
 description: I had a meeting and one of the topics was “the bench”. I had some thoughts on the matter and wanted to write a motivation that can help our organization. I also wanted to see how fast I could make a minimal viable paper 😉 with the help of generative AI and gave myself 30 minutes. 
+categories: PowerPlatform AI DevOps Copilot
 ---
 
 # Context

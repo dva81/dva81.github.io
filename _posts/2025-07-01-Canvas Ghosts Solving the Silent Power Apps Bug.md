@@ -23,11 +23,11 @@ Naturally, the team assumed it was something small—a bad reference, a corrupte
 
 ## The Fix: Clean Import, Clean Result
 
-So I escalated. First, I migrated the solution to a newly provisioned developer environment ('DEV', EU region). Fresh install, clean start. Imported the unmanaged solution. Same result. The ghost traveled with us.
+First, I migrated the solution to a newly provisioned developer environment ('DEV', EU region). Fresh install, clean start. Imported the unmanaged solution. Same result. The ghost traveled with us.
 
-Then I tried something else. I took a copy of the application as a `.msapp` file and uploaded it directly into the new environment—not as a solution import, but as a raw file injection. Suddenly, it worked. UI appeared. Controls rendered. `OnStart` logic triggered. The monitoring session populated like it should. The app, in every sense, had come back to life.
+Then we tried something else. I took a copy of the application as a `.msapp` file and uploaded it directly into the new environment—not as a solution import, but as a raw file injection. Suddenly, it worked. UI appeared. Controls rendered. `OnStart` logic triggered. The monitoring session populated like it should. The app, in every sense, had come back to life.
 
-That triggered the “why?” reflex. What changed?
+> That triggered the “why?” reflex. What changed?
 
 Turns out, the new environment had a specific setting: **code components were not allowed**. During import, a code component embedded in the app was quietly stripped out. That component—previously invisible and not throwing errors—was the blocker all along. Once removed, everything downstream behaved normally.
 
@@ -58,7 +58,7 @@ So what’s my takeaway?
 
 This small win reminded me that pragmatic, low-friction debugging can outmatch brute-force rebuilds. Especially when working across environments, platform governance matters just as much as app logic.
 
-Sometimes, solving platform issues isn’t about knowing more—it’s about assuming less.
+> Sometimes, solving platform issues isn’t about knowing more—it’s about assuming less.
 
 ----
 My focus is on structuring, automating and managing business processes using Agile and DevOps best practices. This creates working environments where business continuity, transparency and human capital come first. Reach out to me on [LinkedIn](https://www.linkedin.com/in/dennisvanaelst) or check out my [github](https://github.com/dva81) or [blog](https://www.dennisvanaelst.net/) for more tips and tricks.

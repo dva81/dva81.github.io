@@ -6,20 +6,19 @@ description: We’re not just adopting new tools, we’re reshaping how people w
 categories: PowerPlatform AI DevOps Copilot
 ---
 
-
 # The Road to an AI-Augmented Workforce
 
-We’re not just adopting new tools, we’re reshaping how people work. As AI shifts from buzzword to infrastructure, the pressure is growing on organizations to adapt. But the real transformation won’t come from software updates. It’ll come from people building the right skills to work *with* AI, not against it.
+We’re not just adopting new tools, we’re reshaping how people work. As AI shifts from buzzword to infrastructure, the pressure is growing on organizations to adapt. But the real transformation won’t come from software updates. It’ll come from people building the right skills to work *with* AI, not against it. In this post 
 
 > This evolution isn’t theoretical. It’s already happening—and it’s unfolding in phases.
 
 ## Short-Term (1–3 Years): Learning the Language of AI
 
-In the early phase, AI is being used to streamline routine operations: triaging customer questions, surfacing compliance anomalies, automating data entry. These aren’t moonshot use cases—they’re practical, and they’re being rolled out now.
+We’re not just adopting new tools. We’re shifting how work gets done. And that shift will only succeed if people are brought along with clarity and intent. That means building the right skills—like AI literacy, ethical reasoning, and data fluency—but also cultivating trust, curiosity, and adaptability across the workforce.
 
-For employees, this means acquiring **AI literacy**: understanding what AI can (and can’t) do, how to interpret its outputs, and how to question its assumptions. It’s not about coding—it's about fluency. Can your customer support rep work with a generative AI assistant? Can your analyst spot hallucinations in a model-generated report?
+Getting people on board with AI isn’t about hype. It’s about setting realistic expectations, offering practical training, and embedding AI into everyday workflows. This won’t happen overnight. Based on current trends, the shift will play out over three phases: short-term (1–3 years), mid-term (3–7 years), and long-term (7+ years). Each phase brings its own challenges—and requires different capabilities from the workforce.
 
-In practice, companies like Microsoft and PwC are already training employees in prompt engineering and responsible AI usage as baseline competencies.
+> In practice, companies like Microsoft and PwC are already training employees in prompt engineering and responsible AI usage as baseline competencies.
 
 ## Mid-Term (3–7 Years): Upskilling at Scale
 

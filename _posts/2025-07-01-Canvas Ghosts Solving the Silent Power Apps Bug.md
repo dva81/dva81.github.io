@@ -2,7 +2,7 @@
 layout: post
 title:  "Canvas Ghosts: Solving the Silent Power Apps Bug"
 date: 2025-07-01
-description: In enterprise software, it’s not the visible errors that haunt us—it’s the silent ones. Recently, I ran into one of those “ghost bugs” in Microsoft Power Apps: no errors, no alerts, just a dead-calm editor window and an app that refused to behave.
+description: In enterprise software, it’s not the visible errors that haunt us—it’s the silent ones. Recently, I ran into one of those “ghost bugs” in Microsoft Power Apps, no errors, no alerts, just a dead-calm editor window and an app that refused to behave.
 categories: PowerPlatform AI DevOps Copilot
 ---
 

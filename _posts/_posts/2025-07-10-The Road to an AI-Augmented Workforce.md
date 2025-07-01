@@ -8,9 +8,9 @@ categories: PowerPlatform AI DevOps Copilot
 
 # The Road to an AI-Augmented Workforce
 
-We’re not just adopting new tools. We’re shifting how work gets done. And that shift will only succeed if people are brought along with clarity and intent. That means building the right skills—like AI literacy, ethical reasoning, and data fluency—but also cultivating trust, curiosity, and adaptability across the workforce.
+We’re not just adopting new tools. We’re shifting how work gets done. And that shift will only succeed if people are brought along with clarity and intent. That means building the right skills—like AI literacy, ethical reasoning, and data fluency but also cultivating trust, curiosity, and adaptability across the workforce.
 
-Getting people on board with AI isn’t about hype. It’s about setting realistic expectations, offering practical training, and embedding AI into everyday workflows. This won’t happen overnight. Based on current trends, the shift will play out over three phases: short-term (1–3 years), mid-term (3–7 years), and long-term (7+ years). Each phase brings its own challenges—and requires different capabilities from the workforce.
+Getting people on board with AI isn’t about hype. It’s about setting realistic expectations, offering practical training, and embedding AI into everyday workflows. This won’t happen overnight. Based on current trends, the shift will play out over three phases: short-term (1–3 years), mid-term (3–7 years), and long-term (7+ years). Each phase brings its own challenges and requires different capabilities from the workforce.
 
 > This evolution isn’t theoretical. It’s already happening—and it’s unfolding in phases.
 

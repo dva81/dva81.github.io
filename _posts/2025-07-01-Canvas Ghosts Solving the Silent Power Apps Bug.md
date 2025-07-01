@@ -2,19 +2,22 @@
 layout: post
 title:  "Canvas Ghosts: Solving the Silent Power Apps Bug"
 date: 2025-07-01
-description: In enterprise software, it’s not the visible errors that haunt us—it’s the silent ones. Recently, I ran into one of those “ghost bugs” in Microsoft Power Apps, no errors, no alerts, just a dead-calm editor window and an app that refused to behave.
+description: In enterprise software, it’s not the visible errors that haunt us—it’s the silent ones. Recently, we ran into one of those “ghost bugs” in Microsoft Power Apps, no errors, no alerts, just a dead-calm editor window and an app that refused to behave.
 categories: PowerPlatform AI DevOps Copilot
 ---
 
 
 # Canvas Ghosts: Solving the Silent Power Apps Bug
 
-In enterprise software, it’s not the visible errors that haunt us—it’s the silent ones. Recently, I ran into one of those “ghost bugs” in Microsoft Power Apps: no errors, no alerts, just a dead-calm editor window and an app that refused to behave.
+In enterprise software, it’s not the visible errors that haunt us—it’s the silent ones. Recently, we ran into one of those “ghost bugs” in Microsoft Power Apps: no errors, no alerts, just a dead-calm editor window and an app that refused to behave.
 
-I was working inside our 'Development' environment, tweaking an unmanaged solution (*SAM 2*) and specifically a canvas app called *Convention Management*. On paper, everything looked fine. The app opened. But that was about it. No UI. No reactions. No `OnStart` logic firing. Even the monitoring tool—usually the first source of truth—showed nothing. It was like the app wasn’t even trying.
+The team was working inside our 'Development' environment, tweaking an unmanaged solution (*SAM 2*) and specifically a canvas app called *Convention Management*. On paper, everything looked fine. The app opened. But that was about it. No UI. No reactions. No `OnStart` logic firing. Even the monitoring tool—usually the first source of truth—showed nothing. It was like the app wasn’t even trying.
 
+![Picture1](https://github.com/user-attachments/assets/18b0ae91-151c-4338-b143-24785df86f31)
 
-Naturally, I assumed it was something small—a bad reference, a corrupted control, maybe even a versioning hiccup. So I tried the basics: republish, reset, retrace my steps. No change. The app stayed silent. Changes weren’t recognized. Saving became impossible. It was as if Power Apps had decided to ignore its own existence.
+Naturally, the team assumed it was something small—a bad reference, a corrupted control, maybe even a versioning hiccup. So we tried the basics: republish, reset, retrace my steps. No change. The app stayed silent. Changes weren’t recognized. Saving became impossible. It was as if Power Apps had decided to ignore its own existence.
+
+![Picture3](https://github.com/user-attachments/assets/7d5574dc-2ab3-4f64-8f5b-95fbc9a8b010)
 
 ---
 

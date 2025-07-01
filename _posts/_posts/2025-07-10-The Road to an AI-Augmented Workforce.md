@@ -45,7 +45,7 @@ At that point, organizations will depend on employees who can:
 - Apply ethical judgment to automated processes.  
 - Design feedback loops to continuously improve AI performance.
 
-The highest-value skills will be **critical thinking, transparency, systems design**, and **human empathy**—things AI can’t replace.
+> The highest-value skills will be **critical thinking, transparency, systems design**, and **human empathy**—things AI can’t replace.
 
 ## How to Get There
 

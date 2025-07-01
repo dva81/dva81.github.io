@@ -2,7 +2,7 @@
 layout: post
 title:  "The Road to an AI-Augmented Workforce"
 date: 2025-07-10
-description: We’re not just adopting new tools—we’re reshaping how people work. As AI shifts from buzzword to infrastructure, the pressure is growing on organizations to adapt. But the real transformation won’t come from software updates. It’ll come from people building the right skills to work *with* AI, not against it.
+description: We’re not just adopting new tools, we’re reshaping how people work. As AI shifts from buzzword to infrastructure, the pressure is growing on organizations to adapt. But the real transformation won’t come from software updates. It’ll come from people building the right skills to work with AI, not against it.
 categories: PowerPlatform AI DevOps Copilot
 ---
 

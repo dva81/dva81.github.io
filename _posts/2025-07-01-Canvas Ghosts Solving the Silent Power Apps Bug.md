@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "From Concept to Copilot: Defining the Right Intake Criteria  "
-date: 2025-04-15
-description: AI copilots are reshaping how we interact with digital systems, but their success is not accidental—it starts with well-defined intake criteria. Without a structured approach to defining the agent’s functional and technical scope, we risk building copilots that lack usability, accuracy, or security. 
+title:  "Canvas Ghosts: Solving the Silent Power Apps Bug"
+date: 2025-07-01
+description: In enterprise software, it’s not the visible errors that haunt us—it’s the silent ones. Recently, I ran into one of those “ghost bugs” in Microsoft Power Apps: no errors, no alerts, just a dead-calm editor window and an app that refused to behave.
 categories: PowerPlatform AI DevOps Copilot
 ---
 
@@ -12,6 +12,7 @@ categories: PowerPlatform AI DevOps Copilot
 In enterprise software, it’s not the visible errors that haunt us—it’s the silent ones. Recently, I ran into one of those “ghost bugs” in Microsoft Power Apps: no errors, no alerts, just a dead-calm editor window and an app that refused to behave.
 
 I was working inside our 'Development' environment, tweaking an unmanaged solution (*SAM 2*) and specifically a canvas app called *Convention Management*. On paper, everything looked fine. The app opened. But that was about it. No UI. No reactions. No `OnStart` logic firing. Even the monitoring tool—usually the first source of truth—showed nothing. It was like the app wasn’t even trying.
+
 
 Naturally, I assumed it was something small—a bad reference, a corrupted control, maybe even a versioning hiccup. So I tried the basics: republish, reset, retrace my steps. No change. The app stayed silent. Changes weren’t recognized. Saving became impossible. It was as if Power Apps had decided to ignore its own existence.
 

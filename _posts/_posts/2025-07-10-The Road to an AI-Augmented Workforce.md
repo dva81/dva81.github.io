@@ -18,7 +18,7 @@ In the early phase, AI is being used to streamline routine operations: triaging 
 
 For employees, this means acquiring AI literacy: understanding what AI can (and can’t) do, how to interpret its outputs, and how to question its assumptions. It’s not about coding, it's about fluency. Can your customer support rep work with a generative AI assistant? Can your analyst spot hallucinations in a model-generated report?
 
-> In practice, companies like Microsoft and PwC are already training employees in prompt engineering and responsible AI usage as baseline competencies.
+In practice, companies like Microsoft and PwC are already training employees in prompt engineering and responsible AI usage as baseline competencies.
 
 ## Mid-Term (3–7 Years): Upskilling at Scale
 

@@ -22,11 +22,8 @@ There is also the issue of global coverage. Thousands of valid document types ex
 
 Most importantly, LLM decisions are difficult to explain. In regulated environments, *“the model estimated this was valid”* is not an acceptable audit trail.
 
-This is why many financial institutions choose **model‑driven, forensic identity verification solutions** instead. These apply deterministic rules, issuer‑specific document models, and deep cross‑checks between visual, textual, and electronic elements — producing outcomes that are traceable, auditable, and regulator‑ready.
+This is why many financial institutions choose **model‑driven, forensic identity verification solutions** instead. These apply deterministic rules, issuer‑specific document models, and deep cross‑checks between visual, textual, and electronic elements producing outcomes that are traceable, auditable, and regulator‑ready.
 
-LLMs absolutely have a role in onboarding — for customer interaction, unstructured data processing, or workflow enrichment.
-
-But when it comes to **ID verification and fraud detection**, the architectural question is not *how advanced* the technology is, but *how appropriate it is for the risk profile*.
+LLMs absolutely have a role in onboarding, for customer interaction, unstructured data processing, or workflow enrichment.But when it comes to **ID verification and fraud detection**, the architectural question is not *how advanced* the technology is, but *how appropriate it is for the risk profile*.
 
 In that context, forensic, purpose‑built solutions remain the right foundation.
-``

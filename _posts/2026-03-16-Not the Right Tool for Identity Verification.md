@@ -14,7 +14,7 @@ At first glance, this sounds innovative. In practice, it’s often the wrong arc
 
 Identity verification in financial services is not a content problem. It is a **security and regulatory control**.
 
-LLMs are probabilistic by design. They generate the *most likely* answer, not a deterministic one. That is perfectly acceptable for language tasks — but risky when decisions must be repeatable, explainable, and defensible to auditors and regulators.
+LLMs are probabilistic by design. They generate the *most likely* answer, not a deterministic one. That is perfectly acceptable for language tasks but risky when decisions must be repeatable, explainable, and defensible to auditors and regulators.
 
 Modern identity documents contain advanced security features: holograms, microprint, MRZ zones, barcodes, and embedded RFID chips. Generic LLMs do not understand these elements in a forensic sense. They can interpret images, but they cannot validate authenticity across multiple security layers.
 

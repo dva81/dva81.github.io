@@ -8,11 +8,9 @@ categories: PowerPlatform AI DevOps Copilot
 
 # Why Large Language Models Are Not the Right Tool for Identity Verification
 
-AI is everywhere  and Large Language Models (LLMs) are increasingly proposed for use cases like ID and passport recognition in digital onboarding.
+AI is everywhere  and Large Language Models (LLMs) are increasingly proposed for use cases like ID and passport recognition in digital onboarding.At first glance, this sounds innovative. In practice, it’s often the wrong architectural choice.
 
-At first glance, this sounds innovative. In practice, it’s often the wrong architectural choice.
-
-Identity verification in financial services is not a content problem. It is a **security and regulatory control**.
+> Identity verification in financial services is not a content problem. It is a **security and regulatory control**.
 
 LLMs are probabilistic by design. They generate the *most likely* answer, not a deterministic one. That is perfectly acceptable for language tasks but risky when decisions must be repeatable, explainable, and defensible to auditors and regulators.
 

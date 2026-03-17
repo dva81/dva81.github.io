@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Large Language Models Are Not the Right Tool for Identity Verification"
-date: 2025-04-15
+date: 2026-03-15
 description: AI is everywhere and Large Language Models (LLMs) are increasingly proposed for use cases like ID and passport recognition in digital onboarding. At first glance, this sounds innovative. In practice, it’s often the wrong architectural choice.
 categories: PowerPlatform AI DevOps Copilot
 ---

@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Creating a Parking Spot Agent in M365 Copilot"
+date: 2026-02-15
+description: Keeping track of parking spot assignments can be annoying. I do not enjoy push notifications on my phone and I often forget the exact spot I received. Searching through emails is not something I want to do either. My calendar, however, is the one place I check every day. That is why I decided to create a simple M365 Copilot agent that reads my parking confirmation emails and automatically creates a calendar entry for me.
+categories: PowerPlatform AI DevOps Copilot
+---
 
 # Creating a Parking Spot Agent in M365 Copilot
 
@@ -27,9 +34,17 @@ The spot identifier is also included in the message. The agent uses -2.D.263 (Th
 
 In the Agent Builder interface, the process is straightforward.
 You describe the behavior you want, provide an example email, and Copilot handles the rest.
+
+<img width="1500" height="868" alt="image" src="https://github.com/user-attachments/assets/331b495d-f486-445c-ba53-11cccfd6e716" />
+
 The preview panel immediately shows how the agent will respond to new messages.
 Once the flow looks correct, you publish it with a single click and it becomes available for use.
+
+<img width="1537" height="925" alt="image" src="https://github.com/user-attachments/assets/7d436d74-38e4-4eb4-9d09-9820ba643184" />
+
 The setup takes only a few minutes and does not require advanced logic or additional services. The interface guides you through each step, which makes the entire experience smooth and approachable.
+
+<img width="1748" height="977" alt="image" src="https://github.com/user-attachments/assets/85941af4-8e73-4e15-91e7-6c8e327694a5" />
 
 ## Final Result
 

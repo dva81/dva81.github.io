@@ -26,6 +26,7 @@ LLMs absolutely have a role in onboarding, for customer interaction, unstructure
 
 In that context, forensic, purpose‑built solutions remain the right foundation.
 
+If you want to know more check out [regulaforensics](https://regulaforensics.com/).
 
 ----
 My focus is on structuring, automating and managing business processes using Agile and DevOps best practices. This creates working environments where business continuity, transparency and human capital come first. Reach out to me on [LinkedIn](https://www.linkedin.com/in/dennisvanaelst) or check out my [github](https://github.com/dva81) or [blog](https://www.dennisvanaelst.net/) for more tips and tricks.

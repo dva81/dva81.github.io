@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Why AI Alone Is Not an Intelligent Document Processing Strategy"
 description: "AI can improve document processing, but it does not replace workflow, validation, governance and operational accountability."
 date: 2026-06-24

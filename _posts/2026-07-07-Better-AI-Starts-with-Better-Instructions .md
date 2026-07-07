@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Better AI Starts with Better Instructions
-date: 2026-07-14
+date: 2026-07-07
 description: A lot of AI assistants do not disappoint because the technology is weak. They were disappointed because they weren't guided clearly enough.
 categories: AI Leadership
 ---

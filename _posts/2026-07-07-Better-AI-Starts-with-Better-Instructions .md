@@ -24,6 +24,9 @@ That does not mean the model is bad. Often, it simply means the guidance is too 
 
 Professional work needs more than good wording. It needs prioritization, judgment, and output that is close enough to use without a lot of extra editing. 
 
+> Hi Jean, you are working with me for some time now. Looking at all the conversations we had how would you improve your instruction to become more efficient ?<img width="912" height="46" alt="image" src="https://github.com/user-attachments/assets/a0d40261-d1d2-4728-b465-d4903d91497d" />
+
+
 # What better instructions change 
 
 The biggest improvement comes from being more explicit about how the assistant should work with you, not just what it should produce. 

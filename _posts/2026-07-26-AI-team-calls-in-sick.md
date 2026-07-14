@@ -20,13 +20,9 @@ For decades, we treated software as predictable. It either worked or it didn't. 
 
 That doesn't mean the technology is failing. It means we are entering a world where software behaves less like a machine and more like a colleague. Yet we still manage it like traditional software.
 
-The conversation around Agentic AI is mainly about capabilities: reasoning, autonomy, orchestration and automation. But the next challenge is not only making agents smarter.
+The conversation around Agentic AI is mainly about capabilities: reasoning, autonomy, orchestration and automation. But the next challenge is not only making agents smarter. It is making organizations ready for them.
 
-It is making organizations ready for them.
-
-Every manager understands that teams need support, monitoring and backup plans. Critical roles need ownership, quality checks and continuity measures. Why would AI be any different?
-
-As organizations become increasingly dependent on AI, resilience becomes just as important as intelligence. 
+Every manager understands that teams need support, monitoring and backup plans. Critical roles need ownership, quality checks and continuity measures. Why would AI be any different? As organizations become increasingly dependent on AI, resilience becomes just as important as intelligence. 
 
 It doesn't take much imagination.
 
@@ -36,11 +32,7 @@ Or imagine your customer service team relies on AI to draft responses. Overnight
 
 Or perhaps an AI agent responsible for reviewing contracts suddenly takes twice as long because an external service is experiencing high latency. Procurement doesn't stop. The business simply waits longer.
 
-None of these are software failures.
-
-They are operational challenges.
-
-The future of AI will not only be defined by how intelligent our agents become, but by how resilient our organizations are when those agents don't perform as expected.
+None of these are software failures. They are operational challenges. The future of AI will not only be defined by how intelligent our agents become, but by how resilient our organizations are when those agents don't perform as expected.
 
 Because the real question is not:
 

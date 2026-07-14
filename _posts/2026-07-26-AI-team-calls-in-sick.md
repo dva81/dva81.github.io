@@ -36,11 +36,7 @@ None of these are software failures. They are operational challenges. The future
 
 Because the real question is not:
 
-**"Can AI do the job?"** 
-
-The real question is:
-
-**"Are we ready to manage a workforce that is partly digital?"**
+**"The question isn't whether your AI works. It's whether your business still works when your AI doesn't perform as expected."**
 
 
 ----

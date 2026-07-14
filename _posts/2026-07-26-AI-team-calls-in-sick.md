@@ -34,7 +34,7 @@ Because the real question is not:
 
 The real question is:
 
-**"Are we ready to manage a workforce that is partly digital?" **
+**"Are we ready to manage a workforce that is partly digital?"**
 
 
 ----

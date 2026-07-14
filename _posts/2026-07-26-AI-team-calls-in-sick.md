@@ -2,63 +2,39 @@
 layout: post
 title: The Next AI Challenge Is Not Intelligence. It's Resilience.
 date: 2026-07-026
-description: Last week I caught myself getting frustrated with Microsoft 365 Copilot. What if this was no different from arriving at the office on a Monday morning and discovering that a key team member was unavailable?
+description: Last week I caught myself getting frustrated with my digital assistant. What if this was no different from arriving at the office on a Monday morning and discovering that a key team member was unavailable?
 categories: AI Leadership
 ---
 
 # The Next AI Challenge Is Not Intelligence. It's Resilience.
 
-Last week I caught myself getting frustrated with Microsoft 365 Copilot.
+Last week I caught myself getting frustrated with an AI assistant. It was slower than usual. It didn't quite follow my prompts. My first reaction was simple: "The AI isn't working." Then I realised something...
 
-It was slower than usual. It didn't quite follow my prompts. Some answers felt… off.
+**My first reaction was simple: "The platform must be having issues."**
 
-My first reaction was simple:
+But then I had another thought. What if this was no different from arriving at the office on a Monday morning and discovering that a key team member was unavailable? Work slows down. Priorities shift. Someone else steps in. Quality may fluctuate. The organization adapts.
 
-*"Microsoft must be having issues."*
+And that's when it struck me: We are no longer just deploying software. We are building a digital workforce.
 
-But then I had another thought.
+For decades, we treated software as predictable. It either worked or it didn't. AI is different. An AI agent can perform exceptionally well one day and struggle the next. It can be affected by model updates, changing data, unavailable services or simply a lack of context.
 
-What if this was no different from arriving at the office on a Monday morning and discovering that a key team member was unavailable?
+That doesn't mean the technology is failing. It means we are entering a world where software behaves less like a machine and more like a colleague. Yet we still manage it like traditional software.
 
-Work slows down. Priorities shift. Someone else steps in. Quality may fluctuate. The organisation adapts.
+The conversation around Agentic AI is mainly about capabilities: reasoning, autonomy, orchestration and automation. But the next challenge is not only making agents smarter.
 
-And that's when it struck me:
+It is making organizations ready for them.
 
-**We are no longer just deploying software.**
+Every manager understands that teams need support, monitoring and backup plans. Critical roles need ownership, quality checks and continuity measures. Why would AI be any different?
 
-**We are building a digital workforce.**
-
-For decades, we treated software as predictable. It either worked or it didn't. AI is different.
-
-An AI agent can perform exceptionally well one day and struggle the next. It can be affected by model updates, changing data, unavailable services or simply a lack of context.
-
-That doesn't mean the technology is failing.
-
-It means we are entering a world where software behaves less like a machine and more like a colleague.
-
-Yet we still manage it like traditional software.
-
-The conversation around Agentic AI is mainly about capabilities: reasoning, autonomy, orchestration and automation.
-
-But the next challenge is not only making agents smarter.
-
-**It is making organisations ready for them.**
-
-Every manager understands that teams need support, monitoring and backup plans. Critical roles need ownership, quality checks and continuity measures.
-
-Why would AI be any different?
-
-As organisations become increasingly dependent on AI, resilience becomes just as important as intelligence.
-
-The future of AI will not only be defined by how intelligent our agents become, but by how resilient our organisations are when those agents don't perform as expected.
+As organizations become increasingly dependent on AI, resilience becomes just as important as intelligence. The future of AI will not only be defined by how intelligent our agents become, but by how resilient our organizations are when those agents don't perform as expected.
 
 Because the real question is not:
 
-*"Can AI do the job?"*
+**"Can AI do the job?"** 
 
 The real question is:
 
-**"Are we ready to manage a workforce that is partly digital?"**
+**"Are we ready to manage a workforce that is partly digital?" **
 
 
 ----

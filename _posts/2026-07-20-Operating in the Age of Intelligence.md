@@ -50,7 +50,7 @@ The proposed operating model introduces a significant shift in thinking. Rather 
 
 Leadership remains accountable for business outcomes regardless of whether those outcomes are delivered by humans, AI, automation, or a combination of all three. Governance, performance, resilience, security, compliance, and continuity become enterprise-wide disciplines applied consistently across every capability.
 
-**Steering Committee Recommendations**
+**Recommendations**
 
 The series concludes with five practical actions for organizations that are moving from AI experimentation toward AI operations:
 

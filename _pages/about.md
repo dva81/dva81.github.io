@@ -11,10 +11,12 @@ profile:
   more_info: >
    
 news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+	**Dennis Van Aelst**
 
 For the past two decades, I've worked with enterprises on business automation, intelligent document processing, low-code platforms, and digital transformation initiatives. While the technologies have evolvedfrom document capture and RPA to AI and enterprise copilots, the questions have remained remarkably consistent.
 How should organizations adapt to technological change? Who owns emerging capabilities? How do we operate them at scale? And how do we continue to deliver business value? These are the questions that increasingly shape my work and writing.

@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: Operating in the Age of Intelligence - An Enterprise Operating Model for AI
+date: 2026-07-20
+description: Artificial Intelligence is rapidly evolving from an innovation initiative into an operational dependency. Across proposal management, customer service, document processing, knowledge management, software development, and decision support, AI is becoming embedded in the way organizations deliver business outcomes.
+categories: AI Leadership "Digital Workforce"
+---
 
 
 Artificial Intelligence is rapidly evolving from an innovation initiative into an operational dependency. Across proposal management, customer service, document processing, knowledge management, software development, and decision support, AI is becoming embedded in the way organizations deliver business outcomes. As this transition accelerates, the critical question for leadership is no longer "What can AI do?" but rather "How do we operate a business that increasingly depends on AI?"

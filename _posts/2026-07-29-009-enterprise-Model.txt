@@ -2,7 +2,7 @@
 layout: post
 title: The Enterprise Operating Model: Operating the Age of Intelligence
 date: 2026-07-22
-description: Last week I caught myself getting frustrated with an AI assistant. It was slower than usual. It didn't quite follow my prompts. My first reaction was simple. The AI isn't working. Then I realised something...
+description: For the last forty years, enterprises have learned how to manage people, processes and technology. Every technological wave, ERP, cloud, automation and now AI, has ultimately forced organizations to answer the same questions
 categories: AI Leadership Digital_Workforce
 ---
 
@@ -39,7 +39,7 @@ Organizations should design for continuity when intelligence does not perform as
 
 **The Future Enterprise Operating Model**
 
-![A diagram of a company's enterprise operating model
+
 
 
 

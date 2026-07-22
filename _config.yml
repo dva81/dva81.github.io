@@ -7,11 +7,9 @@ first_name: Dennis
 middle_name: 
 last_name: Van Aelst
 email: dennisvanaelst@msn.com
-description: > 
-Thoughts on leadership, enterprise transformation, and operating in the age of intelligence.
+description: Thoughts on leadership, enterprise transformation, and operating in the age of intelligence.
 # the ">" symbol means to ignore newlines until "footer_text:"
-footer_text: >  # no footer
-Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text: 
 keywords: Leadership, Enterprise Operating Models, Artificial Intelligence, Business Automation, Organizational Design, Governance, Operational Excellence, Enterprise Architecture, Business Transformation, Future of Work, AI Resilience, Capability Management, Microsoft Power Platform, UiPath, Digital Transformation.
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)

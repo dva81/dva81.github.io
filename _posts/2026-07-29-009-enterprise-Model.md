@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Enterprise Operating Model: Operating the Age of Intelligence
+title: The Enterprise Operating Model - Operating the Age of Intelligence
 date: 2026-07-22
 description: For the last forty years, enterprises have learned how to manage people, processes and technology. Every technological wave, ERP, cloud, automation and now AI, has ultimately forced organizations to answer the same questions
 categories: AI Leadership Digital_Workforce

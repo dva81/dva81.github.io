@@ -39,9 +39,7 @@ Organizations should design for continuity when intelligence does not perform as
 
 **The Future Enterprise Operating Model**
 
-
-
-
+<img width="900" height="959" alt="image" src="https://github.com/user-attachments/assets/ac48d6bc-5bfc-455f-87c2-965963ae4009" />
 
 **Capabilities Become the Unit of Ownership**
 

@@ -59,4 +59,4 @@ How to manage organizations where not every contributor appears on the organizat
 
 And perhaps that's why the most important question isn't: "How many AI agents do we have?"
 
-It's simply: **\*\*"Who is accountable when they don't deliver?"\*\***
+It's simply: **"Who is accountable when they don't deliver?"**

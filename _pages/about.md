@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Microsoft 365 | Power Platform | .NET | Azure DevOps | OpenText Intelligent Capture
+subtitle: Microsoft | Power Platform | .NET | DevOps | OpenText 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: # prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
    
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-For the past two decades, I've worked with enterprises on business automation, intelligent document processing, low-code platforms, and digital transformation initiatives. While the technologies have evolved—from document capture and RPA to AI and enterprise copilots, the questions have remained remarkably consistent.
+For the past two decades, I've worked with enterprises on business automation, intelligent document processing, low-code platforms, and digital transformation initiatives. While the technologies have evolvedfrom document capture and RPA to AI and enterprise copilots, the questions have remained remarkably consistent.
 How should organizations adapt to technological change? Who owns emerging capabilities? How do we operate them at scale? And how do we continue to deliver business value? These are the questions that increasingly shape my work and writing.
 
 Throughout my career, I've led teams delivering enterprise solutions across platforms like OpenText, Microsoft Power Platform, UiPath,... Today, my focus extends beyond technology implementation to exploring how organizations should operate when intelligence becomes an integral part of their business capabilities.

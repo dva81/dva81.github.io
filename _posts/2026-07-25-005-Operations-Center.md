@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The AI Operations Center
-date: 2026-07-22
+date: 2026-07-25
 description: Last week I caught myself getting frustrated with an AI assistant. It was slower than usual. It didn't quite follow my prompts. My first reaction was simple. The AI isn't working. Then I realised something...
 categories: AI Leadership Digital_Workforce
 ---

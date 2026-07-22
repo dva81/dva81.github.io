@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Microsoft | Power Platform | .NET | DevOps | OpenText 
+subtitle:  # Microsoft | Power Platform | .NET | DevOps | OpenText 
 
 profile:
   align: right

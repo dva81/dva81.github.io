@@ -3,7 +3,7 @@ layout: post
 title: The Next AI Challenge Is Not Intelligence. It's Resilience.
 date: 2026-07-24
 description: Last week I caught myself getting frustrated with an AI assistant. It was slower than usual. It didn't quite follow my prompts. My first reaction was simple. The AI isn't working. Then I realised something...
-categories: AI Leadership
+categories: AI Leadership 'Digital Workforce'
 ---
 
 # The Next AI Challenge Is Not Intelligence. It's Resilience.

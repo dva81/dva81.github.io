@@ -7,9 +7,11 @@ first_name: Dennis
 middle_name: 
 last_name: Van Aelst
 email: dennisvanaelst@msn.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: > 
+Thoughts on leadership, enterprise transformation, and operating in the age of intelligence.
+# the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >  # no footer
- keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

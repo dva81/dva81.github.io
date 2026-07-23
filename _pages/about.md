@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Dennis Van Aelst # Microsoft | Power Platform | .NET | DevOps | OpenText 
+subtitle: by Dennis Van Aelst # Microsoft | Power Platform | .NET | DevOps | OpenText 
 
 profile:
   align: right

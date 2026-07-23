@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: home
 permalink: /
 subtitle:  Dennis Van Aelst # Microsoft | Power Platform | .NET | DevOps | OpenText 
 

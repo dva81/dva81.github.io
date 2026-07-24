@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let’s talk practical - From AI Ambition to AI Operations
-date: 2026-07-29
+date: 2026-07-30
 description: The idea of an AI Operations Center may sound ambitious, but in practice it does not have to start as a large command room with screens, dashboards and a dedicated team. Most organizations should start much smaller. The real goal is not to create a new department overnight. The goal is to make AI visible, measurable and manageable once it becomes part of daily business execution.
 categories: AI Leadership Digital_Workforce
 ---

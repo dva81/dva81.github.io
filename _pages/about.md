@@ -21,7 +21,7 @@ This is simply a place to share observations, experiences, and ideas that contin
 
 Ultimately, I believe that every technology trend eventually becomes an operating model discussion. The organizations that succeed over the next decade won't necessarily be those with the most AI or automation. They will be the ones that learn how to combine people, intelligence, processes, and technology to consistently deliver business value.
 
-# About me 
+## About me 
 
 For the past two decades, I've worked with enterprises on business automation, intelligent document processing, low-code platforms, and digital transformation initiatives. While the technologies have evolvedffrom document capture and RPA to AI and enterprise copilots, the questions have remained remarkably consistent.
 How should organizations adapt to technological change? Who owns emerging capabilities? How do we operate them at scale? And how do we continue to deliver business value? These are the questions that increasingly shape my work and writing.

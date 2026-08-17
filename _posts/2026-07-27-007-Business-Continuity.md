@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Business Continuity in the AI Era
@@ -6,7 +5,6 @@ date: 2026-07-27
 description: Is AI part of your business continuity strategy? Every organization prepares for outages and disasters. Few prepare for degraded AI performance. What happens when an external provider changes a model, an index becomes unavailable or critical workflows depend on exhausted quotas? Business continuity planning will increasingly include AI capabilities.
 categories: AI Leadership Digital_Workforce
 ---
-
 
 # Business Continuity in the AI Era
 

@@ -48,3 +48,6 @@ But the important point is this: you do not start with the center. You start wit
 That is how enterprise AI moves from experimentation to responsible operations.
 
 And that may be the real final step in the AI journey. Not building smarter agents but building organizations that know how to operate them.
+
+This post is part of a series about Digital workforce and Operating in the Age of Intelligence.  
+https://www.dennisvanaelst.net/blog/category/digital-workforce/ 

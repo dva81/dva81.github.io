@@ -60,3 +60,6 @@ How to manage organizations where not every contributor appears on the organizat
 And perhaps that's why the most important question isn't: "How many AI agents do we have?"
 
 It's simply: **"Who is accountable when they don't deliver?"**
+
+This post is part of a series about Digital workforce and Operating in the Age of Intelligence.  
+https://www.dennisvanaelst.net/blog/category/digital-workforce/ 

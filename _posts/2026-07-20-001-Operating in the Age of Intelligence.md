@@ -79,3 +79,6 @@ Review AI-enabled capabilities regularly through operational governance forums t
 The challenge is not AI. The challenge is operating an enterprise where intelligence becomes part of how business value is delivered.
 
 The organizations that will succeed in the coming decade will not necessarily be those with the most advanced AI solutions. They will be the organizations that learn how to manage capabilities composed of people, intelligence, processes, and technology with the same discipline, accountability, and resilience that they apply to every other critical part of their business.
+
+This post is part of a series about Digital workforce and Operating in the Age of Intelligence.  
+https://www.dennisvanaelst.net/blog/category/digital-workforce/ 

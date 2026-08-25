@@ -38,3 +38,6 @@ Because the real question is not:
 
 **"The question isn't whether your AI works. It's whether your business still works when your AI doesn't perform as expected."**
 
+This post is part of a series about Digital workforce and Operating in the Age of Intelligence.  
+https://www.dennisvanaelst.net/blog/category/digital-workforce/ 
+

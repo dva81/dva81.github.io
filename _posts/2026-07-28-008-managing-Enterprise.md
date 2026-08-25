@@ -155,3 +155,6 @@ Perhaps that is what leadership in the age of intelligence ultimately means.
 Not reinventing how we lead organizations.
 
 But learning how to lead organizations that have fundamentally changed.
+
+This post is part of a series about Digital workforce and Operating in the Age of Intelligence.  
+https://www.dennisvanaelst.net/blog/category/digital-workforce/ 

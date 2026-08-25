@@ -39,3 +39,6 @@ Enterprises do not only need to build AI. They need to operate it.
 And operating AI means continuously understanding whether intelligent capabilities are healthy, trusted, valuable and resilient.
 
 The future enterprise operations room may still show infrastructure, applications and security alerts. But next to them, it will also show something new: the operational health of intelligence itself.
+
+This post is part of a series about Digital workforce and Operating in the Age of Intelligence.  
+https://www.dennisvanaelst.net/blog/category/digital-workforce/ 

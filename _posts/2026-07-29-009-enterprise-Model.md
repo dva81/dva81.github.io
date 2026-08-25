@@ -120,3 +120,6 @@ For decades we have learned how to build software. Over the next twenty years, w
 The organizations that succeed will not necessarily have the most AI. They will be the ones that understand how to run capabilities composed of people, intelligence, processes and technology to consistently deliver business value.
 
 That is what running in the age of intelligence means.
+
+This post is part of a series about Digital workforce and Operating in the Age of Intelligence.  
+https://www.dennisvanaelst.net/blog/category/digital-workforce/ 

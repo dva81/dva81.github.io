@@ -48,3 +48,6 @@ Governance is therefore not about controlling AI.
 Governance is about protecting business outcomes.
 
 And as AI becomes embedded in core processes, that distinction becomes one of the most important leadership responsibilities of the coming decade.
+
+This post is part of a series about Digital workforce and Operating in the Age of Intelligence.  
+https://www.dennisvanaelst.net/blog/category/digital-workforce/ 

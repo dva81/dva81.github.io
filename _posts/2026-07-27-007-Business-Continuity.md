@@ -31,3 +31,6 @@ Business continuity in the AI era is therefore not only about disaster recovery 
 The organizations that understand this early will be better prepared to scale AI responsibly. They will know where AI creates value, where it creates dependency, and how the business continues when that dependency is under pressure.
 
 Because in the end, the question is simple: **is AI part of your business continuity strategy — or only part of your innovation agenda?**
+
+This post is part of a series about Digital workforce and Operating in the Age of Intelligence.  
+https://www.dennisvanaelst.net/blog/category/digital-workforce/ 
